@@ -1,0 +1,121 @@
+MATERIAL DE AYUDA Y AMPLIACIÓN PARA LA OVA 1
+Introducción a la Ciberseguridad y Amenazas Comunes
+
+PROPÓSITO
+
+Este material complementa la ruta principal de la OVA 1. Su objetivo es ampliar
+los conceptos básicos de ciberseguridad con lenguaje ciudadano y conectar la
+lección con rutas formales de aprendizaje como Google Cybersecurity Certificate,
+Foundations of Cybersecurity y marcos de trabajo como NIST Cybersecurity
+Framework 2.0.
+
+1. ¿POR QUÉ LA CIBERSEGURIDAD ES UNA HABILIDAD DE VIDA?
+
+La ciberseguridad no es solo un tema para ingenieros, técnicos o expertos.
+Cualquier persona que use un celular, correo electrónico, red social, app
+bancaria o tienda en línea necesita comprender riesgos básicos de la vida
+digital.
+
+Así como aprendemos a cerrar la puerta de la casa, cuidar la billetera o no
+entregar llaves a un desconocido, también debemos proteger cuentas,
+dispositivos, información e identidad digital.
+
+2. CONCEPTO AMPLIADO DE CIBERSEGURIDAD
+
+La ciberseguridad es el conjunto de prácticas, decisiones, herramientas y
+hábitos que ayudan a proteger información, dispositivos, cuentas y servicios
+digitales frente a accesos no autorizados, fraudes, robos, daños o
+interrupciones.
+
+En palabras sencillas:
+
+- Protege lo que tienes.
+- Protege lo que sabes.
+- Protege lo que haces en internet.
+- Protege tu identidad.
+- Protege tu capacidad de recuperarte si algo falla.
+
+3. TRÍADA CIA CON EJEMPLOS
+
+Confidencialidad:
+Solo las personas autorizadas pueden ver la información. Ejemplo: tu clave
+bancaria no debe ser conocida por nadie más.
+
+Integridad:
+La información no ha sido alterada sin permiso. Ejemplo: que el valor de una
+transferencia no sea cambiado por un atacante.
+
+Disponibilidad:
+Puedes acceder a tu información cuando la necesitas. Ejemplo: recuperar tus
+archivos o entrar a tu correo cuando lo requieres.
+
+4. AMENAZAS COMUNES
+
+Phishing:
+Mensaje, correo o sitio falso que intenta engañarte para robar tus datos.
+Acción segura: no abras enlaces sospechosos; entra desde la app o página oficial.
+
+Smishing:
+Phishing enviado por SMS. Acción segura: no ingreses a enlaces recibidos por
+mensaje de texto; verifica con la entidad por canales oficiales.
+
+Vishing:
+Fraude mediante llamada telefónica. Acción segura: cuelga y llama tú mismo al
+número oficial.
+
+Ingeniería social:
+Manipulación psicológica mediante urgencia, miedo, autoridad o confianza falsa.
+Acción segura: detente, verifica y no actúes bajo presión.
+
+Malware:
+Programa malicioso que puede robar datos, espiar o dañar archivos.
+Acción segura: no abras archivos inesperados y mantén el sistema actualizado.
+
+Ransomware:
+Malware que bloquea archivos y exige dinero. Acción segura: conserva copias de
+seguridad y evita adjuntos sospechosos.
+
+Suplantación:
+Alguien se hace pasar por otra persona o institución. Acción segura: verifica
+por otro canal antes de enviar dinero o información.
+
+WiFi trampa:
+Red inalámbrica falsa o insegura. Acción segura: evita entrar a bancos o correos
+desde redes públicas no confiables.
+
+5. MAPA DE PROTECCIÓN
+
+El NIST Cybersecurity Framework 2.0 organiza resultados en funciones como
+Govern, Identify, Protect, Detect, Respond y Recover. En lenguaje ciudadano:
+
+- Gobernar: definir reglas personales de seguridad.
+- Identificar: reconocer qué cuentas, dispositivos e información son valiosos.
+- Proteger: aplicar contraseñas, MFA, actualizaciones y copias.
+- Detectar: observar alertas, accesos raros y movimientos no reconocidos.
+- Responder: bloquear, cambiar claves, reportar y documentar.
+- Recuperar: restaurar cuentas, archivos y hábitos.
+
+6. RECURSOS EXTERNOS OPCIONALES
+
+Estos recursos requieren internet y no son obligatorios para completar el SCORM:
+
+- Google Cybersecurity Certificate:
+  https://grow.google/certificates/cybersecurity/
+
+- Foundations of Cybersecurity - Google/Coursera:
+  https://www.coursera.org/learn/foundations-of-cybersecurity
+
+- Google Skills / Grow with Google:
+  https://grow.google/certificates/cybersecurity/
+
+- NIST Cybersecurity Framework 2.0:
+  https://www.nist.gov/cyberframework
+
+- Google Phishing Quiz:
+  https://phishingquiz.withgoogle.com/
+
+CIERRE
+
+La mejor defensa no es saberlo todo, sino detenerse, observar y verificar antes
+de actuar. Si un mensaje genera urgencia, miedo o presión, tómate un minuto.
+Ese minuto puede proteger tus cuentas, tu dinero, tus datos y tu tranquilidad.
