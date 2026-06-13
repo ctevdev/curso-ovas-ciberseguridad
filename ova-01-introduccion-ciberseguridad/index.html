@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OVA SCORM 1.2 sobre introducción a la ciberseguridad y amenazas comunes">
+  <title>OVA 1 | Introducción a la Ciberseguridad</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido principal</a>
+  <header class="topbar">
+    <div class="brand-block">
+      <div class="course-mark" aria-hidden="true">⬡</div>
+      <div>
+        <p class="eyebrow">Curso interactivo de ciberseguridad</p>
+        <h1>OVA 1 · Introducción y amenazas comunes</h1>
+      </div>
+    </div>
+    <img class="institution-logo" src="assets/logo-unicartagena-ctev.png" alt="Logo Universidad de Cartagena y CTEV">
+    <div class="score-chip" aria-live="polite">Puntaje: <strong id="score">0</strong>/100</div>
+  </header>
+
+  <div class="progress-shell" aria-label="Progreso de la OVA">
+    <div class="progress-meta">
+      <span id="step-label">Pantalla 1 de 10</span>
+      <span id="progress-label">10 %</span>
+    </div>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <button id="help-button" class="help-button" type="button" aria-haspopup="dialog">Ayuda / Aprende más</button>
+
+  <footer class="site-footer">
+    <p>Tu seguridad digital empieza con una pausa y una buena decisión.</p>
+    <button id="reset-button" class="button button-ghost" type="button">Reiniciar OVA</button>
+  </footer>
+
+  <div id="help-panel" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="dialog-card help-card">
+      <div class="dialog-heading">
+        <h2 id="help-title">Ayuda / Aprende más</h2>
+        <button id="close-help" class="button button-ghost" type="button" aria-label="Cerrar ayuda">Cerrar</button>
+      </div>
+      <div class="help-tabs" aria-label="Material de ayuda de la OVA 1">
+        <details open>
+          <summary>Glosario básico</summary>
+          <dl class="glossary">
+            <dt>Activo digital</dt><dd>Cuenta, dispositivo, archivo o información que tiene valor para ti.</dd>
+            <dt>Amenaza</dt><dd>Situación o actor que puede causar daño.</dd>
+            <dt>Riesgo</dt><dd>Posibilidad de que una amenaza afecte algo valioso.</dd>
+            <dt>Vulnerabilidad</dt><dd>Debilidad que puede ser aprovechada por un atacante.</dd>
+            <dt>Ataque</dt><dd>Acción realizada para robar, alterar, bloquear, espiar o engañar.</dd>
+            <dt>Control de seguridad</dt><dd>Medida que reduce un riesgo, como doble factor, copias o actualizaciones.</dd>
+            <dt>Incidente</dt><dd>Evento que afecta o puede afectar la seguridad de una cuenta, dato o dispositivo.</dd>
+            <dt>Phishing</dt><dd>Engaño digital para robar información mediante mensajes, enlaces o sitios falsos.</dd>
+            <dt>MFA o doble factor</dt><dd>Segunda capa de seguridad para proteger una cuenta.</dd>
+            <dt>Copia de seguridad</dt><dd>Respaldo de información importante para recuperarla si se pierde o bloquea.</dd>
+          </dl>
+        </details>
+        <details>
+          <summary>Conceptos ampliados</summary>
+          <p>La ciberseguridad protege lo que tienes, lo que sabes, lo que haces en internet, tu identidad y tu capacidad de recuperarte si algo falla.</p>
+          <p>También depende de decisiones humanas: verificar antes de hacer clic, no compartir códigos, usar contraseñas seguras, activar doble factor y reportar situaciones sospechosas.</p>
+          <p>En la vida diaria, una buena práctica puede ser tan simple como entrar manualmente a la página del banco, revisar el remitente de un correo, actualizar el celular o tener una copia de tus fotos.</p>
+        </details>
+        <details>
+          <summary>Ejemplos cotidianos</summary>
+          <ul>
+            <li>Mensaje urgente del banco: verifica por canales oficiales.</li>
+            <li>Fotos importantes en el celular: activa copia de seguridad.</li>
+            <li>Archivo inesperado: no lo abras sin confirmar su origen.</li>
+            <li>Alerta de inicio desconocido: cambia contraseña, cierra sesiones y activa MFA.</li>
+          </ul>
+        </details>
+        <details>
+          <summary>Recursos para profundizar</summary>
+          <p>Estos enlaces son opcionales y requieren internet. La OVA funciona sin ellos.</p>
+          <div class="resource-list">
+            <a href="https://grow.google/certificates/cybersecurity/" target="_blank" rel="noopener">Google Cybersecurity Certificate</a>
+            <a href="https://www.coursera.org/learn/foundations-of-cybersecurity" target="_blank" rel="noopener">Foundations of Cybersecurity</a>
+            <a href="https://grow.google/certificates/cybersecurity/" target="_blank" rel="noopener">Google Skills / Grow with Google</a>
+            <a href="https://www.nist.gov/cyberframework" target="_blank" rel="noopener">NIST Cybersecurity Framework 2.0</a>
+            <a href="https://phishingquiz.withgoogle.com/" target="_blank" rel="noopener">Google Phishing Quiz</a>
+          </div>
+          <p class="resource-note">Úsalos como lincografía final o ruta de profundización. No son necesarios para que Moodle registre tu puntaje.</p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div id="confirm-dialog" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <h2 id="dialog-title">¿Reiniciar la OVA?</h2>
+      <p>Se borrarán el progreso, las respuestas y el puntaje de este intento.</p>
+      <div class="button-row">
+        <button id="cancel-reset" class="button button-secondary" type="button">Cancelar</button>
+        <button id="confirm-reset" class="button button-danger" type="button">Sí, reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript>Esta OVA necesita JavaScript habilitado para funcionar.</noscript>
+  <script src="js/scorm-api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
