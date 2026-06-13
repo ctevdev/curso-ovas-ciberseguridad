@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs><linearGradient id="g" x2="1"><stop stop-color="#07145f"/><stop offset="1" stop-color="#00bfe0"/></linearGradient><pattern id="p" width="150" height="130" patternUnits="userSpaceOnUse"><path d="M38 4h74l37 61-37 61H38L1 65z" fill="none" stroke="#73eaff" stroke-width="3" opacity=".28"/></pattern></defs>
+  <rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#p)"/>
+</svg>
