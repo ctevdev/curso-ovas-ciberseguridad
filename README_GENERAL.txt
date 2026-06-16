@@ -18,9 +18,10 @@ UNIDAD 2 - Gestion de riesgos y respuesta inicial
 1. ova-u2-01-activos-personales-profesionales
 2. ova-u2-02-vulnerabilidades-configuraciones-inseguras
 3. ova-u2-03-respuesta-inicial-incidentes
+4. ova-u2-04-matriz-riesgos-plan-mejora
 
 Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
-entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con las OVAs 1, 2 y 3
+entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con las OVAs 1, 2, 3 y 4
 completas.
 
 IMPORTANTE SOBRE LOS SCORM
@@ -53,6 +54,8 @@ un color y simbolo de identificacion:
   configuraciones inseguras y controles.
 - Unidad 2 OVA 3 - Indigo/dorado con alertas ambar/rojo: respuesta inicial,
   reporte, evidencia y recuperacion.
+- Unidad 2 OVA 4 - Indigo/dorado con matriz de riesgos: valoracion, controles
+  y plan de mejora.
 
 COMO COMPRIMIR UNA OVA
 
@@ -84,6 +87,7 @@ PAQUETES SCORM GENERADOS
 - OVA-U2-01-activos-personales-profesionales-SCORM12.zip
 - OVA-U2-02-vulnerabilidades-configuraciones-inseguras-SCORM12.zip
 - OVA-U2-03-respuesta-inicial-incidentes-SCORM12.zip
+- OVA-U2-04-matriz-riesgos-plan-mejora-SCORM12.zip
 
 Los mismos paquetes tambien estan separados por unidad en la carpeta:
 outputs/scorm-individuales
@@ -109,6 +113,7 @@ ORDEN RECOMENDADO DE PUBLICACION
    debilidad.
 8. Unidad 2 - Respuesta inicial ante incidentes digitales: que hacer en los
    primeros minutos.
+9. Unidad 2 - Matriz basica de riesgos digitales y plan de mejora.
 
 VALIDACION DE REPORTES SCORM
 

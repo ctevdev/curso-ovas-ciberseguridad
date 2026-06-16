@@ -1,0 +1,568 @@
+## Material de ayuda y ampliación para la OVA 4 — Unidad 2
+
+### Matriz básica de riesgos y plan de mejora
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: priorizar riesgos y actuar”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para construir mejor su matriz y su plan de mejora.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que la gestión del riesgo no busca eliminar todos los problemas posibles. Busca priorizar las acciones que reducen mayor impacto con el menor esfuerzo posible.
+
+La OVA debe reforzar la siguiente idea:
+
+**No todo riesgo se atiende al mismo tiempo. Primero se atienden los riesgos que pueden causar más daño y tienen mayor probabilidad de ocurrir.**
+
+---
+
+## Bloque 1: Qué es riesgo digital
+
+Texto para mostrar al estudiante:
+
+Un riesgo digital es la posibilidad de que una amenaza aproveche una vulnerabilidad y cause un impacto sobre un activo.
+
+Ejemplo:
+
+Activo:
+Correo principal.
+
+Amenaza:
+Phishing.
+
+Vulnerabilidad:
+Sin doble factor y contraseña repetida.
+
+Impacto:
+Pérdida de acceso, suplantación y exposición de información.
+
+Riesgo:
+Que un atacante tome control del correo principal.
+
+Control:
+Contraseña única, MFA, revisión de sesiones y recuperación actualizada.
+
+Mensaje clave:
+
+El riesgo no es solo “algo malo que puede pasar”. Es una combinación entre activo, amenaza, vulnerabilidad, impacto y probabilidad.
+
+---
+
+## Bloque 2: Por qué priorizar
+
+Texto:
+
+En la vida real no siempre se puede corregir todo al mismo tiempo. Por eso se prioriza.
+
+Se atiende primero lo que:
+
+* Afecta dinero.
+* Afecta acceso a muchas cuentas.
+* Afecta información sensible.
+* Afecta reputación.
+* Afecta trabajo o estudio.
+* Afecta clientes, usuarios o familiares.
+* Tiene alta probabilidad de ocurrir.
+* Tiene controles fáciles de aplicar.
+
+Ejemplo:
+
+Activar MFA en el correo principal puede reducir más riesgo que cambiar el color de privacidad de una cuenta poco usada.
+
+---
+
+## Bloque 3: Cómo estimar impacto
+
+Usar una escala sencilla:
+
+### Impacto bajo
+
+La consecuencia es menor, temporal o fácil de corregir.
+
+Ejemplos:
+
+* Pérdida temporal de una cuenta sin datos importantes.
+* Error en una app secundaria.
+* Archivo sin importancia eliminado.
+
+### Impacto medio
+
+La consecuencia afecta actividades personales, académicas o laborales, pero se puede recuperar.
+
+Ejemplos:
+
+* Red social personal comprometida.
+* Documento importante con copia de seguridad.
+* Pérdida temporal de acceso a una plataforma.
+
+### Impacto alto
+
+La consecuencia afecta dinero, reputación, información sensible, continuidad o acceso a servicios críticos.
+
+Ejemplos:
+
+* Correo principal comprometido.
+* Cuenta bancaria afectada.
+* Red social de negocio tomada.
+* Documentos únicos perdidos.
+* Información de clientes expuesta.
+* Celular perdido con cuentas abiertas.
+
+Preguntas guía:
+
+1. ¿Se pierde dinero?
+2. ¿Se afecta mi estudio o trabajo?
+3. ¿Se expone información sensible?
+4. ¿Se afecta a otras personas?
+5. ¿Se pierde acceso a varios servicios?
+6. ¿Se daña mi reputación?
+7. ¿Puedo recuperarlo fácilmente?
+
+---
+
+## Bloque 4: Cómo estimar probabilidad
+
+Usar una escala sencilla:
+
+### Probabilidad baja
+
+Hay buenos controles y pocas señales de exposición.
+
+Ejemplos:
+
+* Contraseña única.
+* MFA activo.
+* Copia de seguridad verificada.
+* Dispositivo bloqueado.
+* Red segura.
+
+### Probabilidad media
+
+Existen algunos controles, pero también debilidades.
+
+Ejemplos:
+
+* Contraseña fuerte pero sin revisión de sesiones.
+* Copia de seguridad activa pero no verificada.
+* Perfil semipúblico.
+* Cuenta importante sin revisión reciente.
+
+### Probabilidad alta
+
+Existen debilidades claras o exposición frecuente.
+
+Ejemplos:
+
+* Contraseña repetida.
+* Sin MFA.
+* Uso de enlaces sospechosos.
+* WiFi pública para banca.
+* Celular sin bloqueo.
+* No hay copia de seguridad.
+* Muchas alertas ignoradas.
+
+Preguntas guía:
+
+1. ¿Ya ha pasado antes?
+2. ¿Recibo muchos mensajes sospechosos?
+3. ¿Tengo controles activos?
+4. ¿Uso contraseñas repetidas?
+5. ¿Uso MFA?
+6. ¿Dependo de WiFi pública?
+7. ¿Comparto demasiada información?
+8. ¿Tengo copias verificadas?
+
+---
+
+## Bloque 5: Cómo decidir controles
+
+Texto:
+
+Un control es una acción que reduce el riesgo.
+
+Puede ser:
+
+### Control preventivo
+
+Busca evitar que ocurra el incidente.
+
+Ejemplos:
+
+* Activar MFA.
+* Usar contraseña única.
+* No abrir enlaces sospechosos.
+* Configurar privacidad.
+* Actualizar dispositivos.
+
+### Control detectivo
+
+Ayuda a descubrir que algo está ocurriendo.
+
+Ejemplos:
+
+* Alertas de inicio de sesión.
+* Revisión de movimientos bancarios.
+* Notificaciones de seguridad.
+* Revisión de sesiones activas.
+
+### Control correctivo
+
+Ayuda a recuperarse después del incidente.
+
+Ejemplos:
+
+* Cambiar contraseña.
+* Restaurar copia de seguridad.
+* Cerrar sesiones.
+* Bloquear tarjeta.
+* Recuperar cuenta.
+* Reportar incidente.
+
+Mensaje clave:
+
+Una buena matriz puede incluir controles preventivos, detectivos y correctivos.
+
+---
+
+## Bloque 6: Opciones frente al riesgo
+
+Crear tarjetas:
+
+### Reducir
+
+Aplicar controles para disminuir la probabilidad o el impacto.
+
+Ejemplo:
+Activar MFA para reducir riesgo de robo de cuenta.
+
+### Evitar
+
+Dejar de realizar una práctica riesgosa.
+
+Ejemplo:
+No usar WiFi pública para banca.
+
+### Transferir
+
+Pasar parte del riesgo a un tercero o servicio.
+
+Ejemplo:
+Usar un medio de pago protegido o respaldo en nube confiable.
+
+### Aceptar
+
+Reconocer que el riesgo existe, pero se decide no actuar por ahora porque el impacto o probabilidad es bajo.
+
+Ejemplo:
+Cuenta secundaria sin información sensible.
+
+Advertencia:
+
+Aceptar un riesgo no significa ignorarlo. Significa tomar una decisión consciente.
+
+---
+
+## Bloque 7: Cómo hacer seguimiento
+
+Texto:
+
+Un plan de mejora no termina cuando se escribe. Debe revisarse.
+
+Cada acción debe tener:
+
+* Riesgo asociado.
+* Acción concreta.
+* Prioridad.
+* Fecha límite.
+* Estado.
+* Evidencia de avance.
+* Revisión futura.
+
+Estados sugeridos:
+
+* Pendiente.
+* En proceso.
+* Realizado.
+* Requiere apoyo.
+* Reprogramado.
+
+Frecuencia sugerida:
+
+* Riesgos críticos: revisar en máximo 7 días.
+* Riesgos altos: revisar durante el mes.
+* Riesgos medios: revisar en el trimestre.
+* Riesgos bajos: monitorear.
+
+---
+
+## Bloque 8: Errores frecuentes al construir una matriz
+
+Mostrar tarjetas de alerta:
+
+1. Escribir riesgos demasiado generales.
+
+Incorrecto:
+“Me pueden hackear.”
+
+Mejor:
+“Riesgo de pérdida de acceso al correo principal por phishing debido a falta de MFA.”
+
+2. Confundir amenaza con vulnerabilidad.
+
+Amenaza:
+Phishing.
+
+Vulnerabilidad:
+Sin MFA o contraseña repetida.
+
+3. No asignar controles.
+
+Una matriz sin controles no lleva a la acción.
+
+4. No poner fechas.
+
+Sin fecha, el plan queda como intención.
+
+5. No priorizar.
+
+Si todo es urgente, nada es realmente urgente.
+
+6. Incluir datos sensibles.
+
+La matriz no debe contener contraseñas, códigos ni datos bancarios completos.
+
+7. No revisar después.
+
+Los riesgos cambian con el tiempo.
+
+---
+
+## Bloque 9: Ejemplo completo de matriz
+
+Crear ejemplo:
+
+### Riesgo 1
+
+Activo:
+Correo principal.
+
+Amenaza:
+Phishing.
+
+Vulnerabilidad:
+Contraseña repetida y sin MFA.
+
+Impacto:
+Alto.
+
+Probabilidad:
+Alta.
+
+Nivel:
+Crítico.
+
+Control:
+Activar MFA, usar contraseña única y revisar sesiones.
+
+Acción:
+Configurar MFA antes del viernes.
+
+Prioridad:
+Alta.
+
+Estado:
+Pendiente.
+
+---
+
+### Riesgo 2
+
+Activo:
+Celular personal.
+
+Amenaza:
+Pérdida o robo.
+
+Vulnerabilidad:
+Sin bloqueo automático.
+
+Impacto:
+Alto.
+
+Probabilidad:
+Media.
+
+Nivel:
+Alto.
+
+Control:
+PIN, biometría, bloqueo automático y localización remota.
+
+Acción:
+Configurar bloqueo automático hoy.
+
+Prioridad:
+Alta.
+
+Estado:
+En proceso.
+
+---
+
+### Riesgo 3
+
+Activo:
+Documentos en computador.
+
+Amenaza:
+Daño físico o malware.
+
+Vulnerabilidad:
+Sin copia de seguridad.
+
+Impacto:
+Medio.
+
+Probabilidad:
+Media.
+
+Nivel:
+Medio.
+
+Control:
+Copia en nube y respaldo externo.
+
+Acción:
+Activar copia automática esta semana.
+
+Prioridad:
+Media.
+
+Estado:
+Pendiente.
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “¿Amenaza, vulnerabilidad o control?”
+
+Instrucción:
+Clasifica cada elemento.
+
+1. Phishing.
+   Respuesta: Amenaza.
+
+2. Contraseña repetida.
+   Respuesta: Vulnerabilidad.
+
+3. Activar MFA.
+   Respuesta: Control.
+
+4. Celular sin bloqueo.
+   Respuesta: Vulnerabilidad.
+
+5. Robo del celular.
+   Respuesta: Amenaza.
+
+6. Copia de seguridad.
+   Respuesta: Control.
+
+7. WiFi pública para banca.
+   Respuesta: Vulnerabilidad o práctica insegura.
+
+8. Fraude por SMS.
+   Respuesta: Amenaza.
+
+Retroalimentación:
+Separar estos conceptos ayuda a construir matrices más claras.
+
+---
+
+## Bloque 11: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de matriz de riesgos”**
+
+Términos:
+
+* Activo: elemento que tiene valor y debe protegerse.
+* Amenaza: evento o actor que puede causar daño.
+* Vulnerabilidad: debilidad que puede ser aprovechada.
+* Riesgo: posibilidad de que una amenaza aproveche una vulnerabilidad y cause impacto.
+* Impacto: consecuencia si el riesgo se materializa.
+* Probabilidad: posibilidad de que ocurra.
+* Nivel de riesgo: valoración resultante de impacto y probabilidad.
+* Control: medida que reduce el riesgo.
+* Control preventivo: medida para evitar un incidente.
+* Control detectivo: medida para identificar señales de incidente.
+* Control correctivo: medida para recuperarse después del incidente.
+* Plan de mejora: conjunto de acciones para reducir riesgos.
+* Prioridad: orden de atención según importancia.
+* Riesgo residual: riesgo que queda después de aplicar controles.
+* Aceptar riesgo: decidir no actuar por ahora de forma consciente.
+* Reducir riesgo: aplicar controles para disminuirlo.
+
+---
+
+## Bloque 12: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en gestión de riesgos, amenazas, vulnerabilidades y controles.
+
+2. Play It Safe: Manage Security Risks
+   Curso recomendado para ampliar conceptos sobre gestión de riesgos de seguridad.
+
+3. Assets, Threats, and Vulnerabilities
+   Curso recomendado para fortalecer el análisis de activos, amenazas, vulnerabilidades y controles.
+
+4. Sound the Alarm: Detection and Response
+   Curso recomendado para conectar riesgos con detección y respuesta.
+
+5. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de gobernar, identificar, proteger, detectar, responder y recuperar.
+
+6. NIST Risk Management Framework
+   Referencia para comprender la gestión del riesgo como proceso continuo.
+
+7. CISA Cyber Essentials
+   Guía práctica para fortalecer controles básicos y priorizar acciones.
+
+8. Google Security Checkup
+   Herramienta práctica para revisar seguridad de cuenta, dispositivos conectados y protecciones activas.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 13: Cierre de ayuda
+
+Texto de cierre:
+
+Una matriz de riesgos no es un documento para guardar y olvidar. Es una herramienta de decisión.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Identificar tus riesgos principales.
+2. Valorar impacto y probabilidad.
+3. Priorizar riesgos altos y críticos.
+4. Definir controles adecuados.
+5. Crear acciones con fecha.
+6. Revisar avances.
+7. Actualizar la matriz cuando cambien tus activos o hábitos digitales.
+
+Recuerda:
+
+**Un riesgo escrito con claridad se puede gestionar. Un riesgo ignorado suele aparecer como incidente.**
