@@ -1,0 +1,511 @@
+## Material de ayuda y ampliación para la OVA 3 — Unidad 2
+
+### Respuesta inicial ante incidentes digitales
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: responder sin pánico y con evidencia”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para ampliar su conocimiento y prepararse para la OVA final de matriz de riesgos y plan de mejora.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que un incidente digital requiere orden, calma y decisiones correctas.
+
+No se busca convertir al estudiante en analista forense ni en técnico especializado. Se busca que sepa qué hacer, qué no hacer, qué documentar y a quién reportar durante la respuesta inicial.
+
+La OVA debe reforzar la siguiente idea:
+
+**Actuar rápido no significa improvisar. Significa aplicar una secuencia clara para reducir daño.**
+
+---
+
+## Bloque 1: Qué es un incidente digital
+
+Texto para mostrar al estudiante:
+
+Un incidente digital es una situación que afecta o puede afectar la seguridad de una cuenta, dispositivo, servicio, archivo o información.
+
+Puede afectar:
+
+* Confidencialidad: alguien ve información que no debería.
+* Integridad: alguien modifica información sin permiso.
+* Disponibilidad: no puedes acceder a una cuenta, archivo o servicio.
+* Reputación: alguien usa tu identidad o cuenta para engañar a otros.
+* Economía: hay compras, transferencias o pagos no autorizados.
+* Continuidad: no puedes estudiar, trabajar o prestar un servicio.
+
+Ejemplos:
+
+* Acceso no autorizado al correo.
+* Fraude bancario.
+* Celular perdido con sesiones abiertas.
+* Red social tomada por un atacante.
+* Malware en computador.
+* Archivos cifrados.
+* Mensajes enviados desde una cuenta sin permiso.
+* Phishing donde ya se entregaron datos.
+
+---
+
+## Bloque 2: Evento, alerta, sospecha e incidente
+
+### Evento
+
+Algo ocurre, pero no necesariamente representa peligro.
+
+Ejemplo:
+Inicias sesión desde tu computador habitual.
+
+### Alerta
+
+Una señal indica que algo debe revisarse.
+
+Ejemplo:
+Recibes aviso de inicio de sesión desde otra ciudad.
+
+### Sospecha
+
+Hay señales que podrían indicar intento de fraude o acceso indebido.
+
+Ejemplo:
+Un SMS bancario trae un enlace extraño y amenaza con bloqueo.
+
+### Incidente
+
+El daño ocurrió o existe alta probabilidad de afectación.
+
+Ejemplo:
+Hay transferencia no reconocida, pérdida de acceso o mensajes enviados sin permiso.
+
+Mensaje clave:
+
+No todas las alertas son incidentes, pero toda alerta sospechosa debe revisarse.
+
+---
+
+## Bloque 3: Señales de compromiso
+
+Crear tarjetas por categoría.
+
+### Cuentas
+
+* Inicio de sesión desconocido.
+* Cambio de contraseña no autorizado.
+* Cambios en correo o teléfono de recuperación.
+* Sesiones abiertas en dispositivos desconocidos.
+* Mensajes enviados sin permiso.
+* Reglas de reenvío desconocidas.
+* Contactos reportan mensajes extraños.
+
+### Dispositivos
+
+* Lentitud anormal.
+* Ventanas emergentes.
+* Apps desconocidas.
+* Antivirus desactivado.
+* Archivos cifrados.
+* Consumo de datos inusual.
+* Permisos cambiados.
+
+### Finanzas
+
+* Movimientos no reconocidos.
+* Transferencias no autorizadas.
+* Compras desconocidas.
+* Códigos SMS que no solicitaste.
+* Llamadas solicitando verificación urgente.
+
+### Redes sociales
+
+* Publicaciones no realizadas.
+* Mensajes enviados a contactos.
+* Cambio de correo o número.
+* Promociones falsas.
+* Pérdida de acceso.
+
+### Nube y archivos
+
+* Archivos eliminados.
+* Archivos compartidos sin autorización.
+* Carpetas desconocidas.
+* Cambios en permisos.
+* Accesos desde ubicaciones desconocidas.
+
+---
+
+## Bloque 4: Primeros 10 minutos
+
+Crear una guía rápida:
+
+1. Detente.
+   No sigas haciendo clic, no respondas, no entregues más información.
+
+2. Identifica el activo afectado.
+   Correo, banco, red social, celular, computador, nube o plataforma.
+
+3. Aísla.
+   Desconecta internet si hay malware. Cierra sesiones desconocidas. Bloquea cuenta o tarjeta si hay fraude.
+
+4. Protege.
+   Cambia contraseña desde un dispositivo seguro. Activa MFA. Actualiza recuperación.
+
+5. Documenta.
+   Guarda capturas, fecha, hora, URL, remitente, número, movimientos y acciones.
+
+6. Reporta.
+   Informa a banco, plataforma, área de TI, soporte institucional, operador o autoridad.
+
+7. Recupera.
+   Revisa sesiones, reglas, apps conectadas, archivos, permisos y copias de seguridad.
+
+Mensaje:
+
+Los primeros minutos no son para investigar todo. Son para detener el daño y conservar evidencia.
+
+---
+
+## Bloque 5: Qué evidencias conservar
+
+Texto:
+
+La evidencia ayuda a entender qué pasó, reportar correctamente y evitar que otros caigan.
+
+Evidencias útiles:
+
+* Captura del mensaje.
+* URL sospechosa.
+* Correo del remitente.
+* Número telefónico.
+* Nombre del perfil.
+* Fecha y hora.
+* Movimiento no reconocido.
+* Alerta de seguridad.
+* Archivo recibido.
+* Nombre de la app instalada.
+* Comprobante de pago o transferencia.
+* Dispositivo afectado.
+* Acciones realizadas.
+
+Advertencia:
+
+No compartas públicamente evidencias que contengan datos sensibles. Oculta información privada antes de enviarla a terceros.
+
+---
+
+## Bloque 6: Qué no se debe hacer
+
+Mostrar tarjetas de alerta:
+
+1. No seguir interactuando con el atacante.
+   Puede obtener más información.
+
+2. No entregar más códigos.
+   Los códigos son personales y temporales.
+
+3. No borrar todo sin documentar.
+   Podrías perder evidencia útil.
+
+4. No cambiar contraseña desde un equipo posiblemente infectado.
+   El atacante podría capturar la nueva clave.
+
+5. No minimizar alertas.
+   Una alerta ignorada puede convertirse en pérdida de acceso.
+
+6. No ocultar el incidente por vergüenza.
+   Reportar ayuda a reducir el daño.
+
+7. No instalar herramientas desconocidas.
+   Podrían empeorar la situación.
+
+8. No avisar desde la cuenta comprometida.
+   Usa otro canal para alertar a contactos.
+
+---
+
+## Bloque 7: A quién reportar
+
+Crear tabla simple:
+
+### Fraude bancario
+
+Reportar a:
+
+* Banco.
+* Billetera digital.
+* Línea antifraude.
+* Autoridad competente.
+
+Acción inicial:
+Bloquear movimientos, tarjeta o cuenta.
+
+### Cuenta de correo comprometida
+
+Reportar a:
+
+* Proveedor de correo.
+* Soporte institucional si es correo académico o laboral.
+* Contactos afectados si hubo suplantación.
+
+Acción inicial:
+Cambiar contraseña, MFA, cerrar sesiones y revisar recuperación.
+
+### Red social tomada
+
+Reportar a:
+
+* Plataforma.
+* Contactos afectados.
+* Soporte institucional si la cuenta representa una entidad.
+
+Acción inicial:
+Recuperar acceso y avisar por otro canal.
+
+### Celular perdido o robado
+
+Reportar a:
+
+* Operador móvil.
+* Banco si tenía apps financieras.
+* Plataformas críticas.
+* Autoridad si aplica.
+
+Acción inicial:
+Bloquear SIM, cerrar sesiones, localizar o borrar remotamente.
+
+### Malware sospechoso
+
+Reportar a:
+
+* Área de TI.
+* Soporte técnico confiable.
+* Organización si es equipo laboral o académico.
+
+Acción inicial:
+Desconectar internet y no abrir más archivos.
+
+### Suplantación
+
+Reportar a:
+
+* Plataforma afectada.
+* Contactos.
+* Autoridad competente si hay fraude o daño.
+
+Acción inicial:
+Documentar perfiles, mensajes y enlaces.
+
+---
+
+## Bloque 8: Recuperación inicial
+
+Texto:
+
+Recuperar no es solo volver a entrar a la cuenta. Después de un incidente se debe revisar si quedaron cambios ocultos.
+
+Checklist de recuperación:
+
+* Cambiar contraseña.
+* Activar MFA.
+* Cerrar sesiones desconocidas.
+* Revisar correo y teléfono de recuperación.
+* Revisar reglas de reenvío.
+* Revisar apps conectadas.
+* Revisar dispositivos vinculados.
+* Revisar publicaciones o mensajes enviados.
+* Avisar a contactos si hubo suplantación.
+* Revisar movimientos financieros.
+* Restaurar archivos desde copia de seguridad.
+* Actualizar sistema y aplicaciones.
+* Eliminar apps sospechosas.
+* Guardar evidencias.
+* Ajustar configuraciones para evitar repetición.
+
+---
+
+## Bloque 9: Reporte inicial recomendado
+
+Crear una plantilla de apoyo:
+
+### Reporte inicial de incidente
+
+1. Fecha y hora aproximada.
+2. Tipo de incidente.
+3. Activo afectado.
+4. Qué ocurrió.
+5. Señales observadas.
+6. Acciones realizadas.
+7. Evidencias disponibles.
+8. Canal de reporte utilizado.
+9. Estado actual.
+10. Próxima acción.
+
+Advertencia:
+
+No incluir contraseñas, códigos, tokens, PIN, CVV ni datos bancarios completos.
+
+Ejemplo seguro:
+
+“Recibí una alerta de inicio de sesión desconocido el 15 de junio a las 8:30 p. m. Revisé la cuenta y encontré una sesión que no reconozco. Cambié la contraseña desde otro dispositivo, activé MFA y guardé captura de la alerta.”
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “Qué guardo como evidencia”
+
+Instrucción:
+Selecciona qué elementos son evidencia útil y segura.
+
+Elementos:
+
+1. Captura del mensaje sospechoso.
+   Respuesta: Evidencia útil.
+
+2. URL sospechosa.
+   Respuesta: Evidencia útil.
+
+3. Contraseña nueva.
+   Respuesta: No debe compartirse ni guardarse en el reporte.
+
+4. Código SMS recibido.
+   Respuesta: No debe compartirse.
+
+5. Fecha y hora del evento.
+   Respuesta: Evidencia útil.
+
+6. Número desde el que llamaron.
+   Respuesta: Evidencia útil.
+
+7. PIN bancario.
+   Respuesta: Nunca debe compartirse.
+
+8. Captura de alerta de inicio de sesión.
+   Respuesta: Evidencia útil.
+
+Retroalimentación:
+La evidencia debe ayudar a reportar sin exponer información sensible.
+
+---
+
+## Bloque 11: Mini actividad de ampliación
+
+### “Selecciona el canal correcto”
+
+Situación 1:
+Transferencia bancaria no reconocida.
+
+Canal correcto:
+Banco o billetera digital y autoridad competente si aplica.
+
+Situación 2:
+Correo institucional comprometido.
+
+Canal correcto:
+Área de TI o soporte institucional.
+
+Situación 3:
+Red social tomada.
+
+Canal correcto:
+Plataforma y contactos afectados por otro canal.
+
+Situación 4:
+Celular robado.
+
+Canal correcto:
+Operador móvil, cuentas críticas y autoridad si aplica.
+
+Situación 5:
+Malware en equipo laboral.
+
+Canal correcto:
+Área de TI antes de manipular más el equipo.
+
+---
+
+## Bloque 12: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de respuesta inicial”**
+
+Términos:
+
+* Evento: acción o situación que ocurre en una cuenta, sistema o dispositivo.
+* Alerta: señal que indica posible riesgo y requiere revisión.
+* Sospecha: situación con indicios de fraude o acceso indebido.
+* Incidente: evento que afecta o puede afectar la seguridad.
+* Contención: acciones para detener o limitar el daño.
+* Evidencia digital: información que ayuda a documentar un incidente.
+* Compromiso: situación donde una cuenta, dispositivo o dato fue afectado.
+* MFA/2FA: doble factor de autenticación.
+* Sesión activa: acceso abierto en un dispositivo o navegador.
+* Suplantación: uso de identidad ajena para engañar.
+* Malware: software malicioso.
+* Recuperación: proceso para restablecer acceso y funcionamiento.
+* Reporte: comunicación formal del incidente.
+* Línea de tiempo: orden cronológico de lo ocurrido.
+* RÁPIDO: protocolo ciudadano de respuesta inicial.
+
+---
+
+## Bloque 13: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en ciberseguridad, detección, respuesta, riesgos y herramientas.
+
+2. Sound the Alarm: Detection and Response
+   Curso de Google recomendado para ampliar conceptos sobre detección y respuesta a incidentes.
+
+3. NIST SP 800-61 Rev. 3
+   Guía de recomendaciones de respuesta a incidentes integrada a la gestión del riesgo de ciberseguridad.
+
+4. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de gobernar, identificar, proteger, detectar, responder y recuperar.
+
+5. CISA Incident Response
+   Recursos de apoyo para preparación y respuesta ante incidentes.
+
+6. Google Security Checkup
+   Herramienta para revisar actividad sospechosa, dispositivos conectados y protección de cuentas.
+
+7. Centro Cibernético Policial
+   Canal colombiano para reporte de fraudes y delitos digitales.
+
+8. INCIBE — Respuesta ante incidentes
+   Recursos en español sobre qué hacer ante incidentes, fraudes y problemas de seguridad.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 14: Cierre de ayuda
+
+Texto de cierre:
+
+Responder a un incidente no consiste en saberlo todo. Consiste en actuar con orden.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Reconocer señales de compromiso.
+2. No seguir interactuando con el atacante.
+3. Contener el daño.
+4. Proteger cuentas y dispositivos.
+5. Documentar evidencias.
+6. Reportar por canales correctos.
+7. Recuperar accesos y revisar configuraciones.
+8. Aprender para evitar que se repita.
+
+Recuerda:
+
+**Pausa, contiene, protege, reporta, documenta y recupera.**

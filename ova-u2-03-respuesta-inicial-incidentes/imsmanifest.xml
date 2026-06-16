@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="OVA-U2-03-RESPUESTA-INICIAL-INCIDENTES" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-U2-03">
+    <organization identifier="ORG-U2-03">
+      <title>OVA U2-03 — Respuesta inicial ante incidentes digitales</title>
+      <item identifier="ITEM-U2-03" identifierref="RES-U2-03">
+        <title>Respuesta inicial ante incidentes digitales</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-U2-03" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html" />
+      <file href="css/styles.css" />
+      <file href="js/scorm-api.js" />
+      <file href="js/app.js" />
+      <file href="assets/README.txt" />
+      <file href="assets/MATERIAL_AYUDA_U2_OVA3.txt" />
+      <file href="assets/logo-unicartagena-ctev.png" />
+      <file href="assets/fondo-hexagonal-azul.jpeg" />
+      <file href="assets/candado-digital.png" />
+      <file href="assets/escudo-candado.png" />
+      <file href="assets/escudo-llave.png" />
+      <file href="assets/celular-alerta-real.png" />
+      <file href="assets/phishing-correo.png" />
+    </resource>
+  </resources>
+</manifest>
