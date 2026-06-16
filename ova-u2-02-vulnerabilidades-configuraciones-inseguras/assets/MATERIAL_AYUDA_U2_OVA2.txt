@@ -1,0 +1,528 @@
+## Material de ayuda y ampliación para la OVA 2 — Unidad 2
+
+### Vulnerabilidades y configuraciones inseguras
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: detectar debilidades antes de que sean incidentes”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para ampliar su conocimiento y prepararse para las siguientes OVAs de la Unidad 2.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que las vulnerabilidades no son únicamente fallas técnicas complejas. En la vida cotidiana, muchas vulnerabilidades son hábitos inseguros, configuraciones débiles o descuidos que facilitan que una amenaza tenga éxito.
+
+La OVA debe reforzar la siguiente idea:
+
+**No toda vulnerabilidad requiere una herramienta avanzada para corregirse. Muchas se reducen con buenas decisiones, configuración segura y hábitos constantes.**
+
+---
+
+## Bloque 1: Vulnerabilidad no significa culpa
+
+Texto para mostrar al estudiante:
+
+Tener una vulnerabilidad no significa que una persona sea descuidada o incapaz. Muchas vulnerabilidades aparecen porque las plataformas cambian, los dispositivos se actualizan, las aplicaciones piden permisos, las cuentas se acumulan y los usuarios no siempre reciben orientación clara.
+
+Lo importante no es culparse. Lo importante es identificar la debilidad, entender el riesgo y aplicar un control.
+
+Ejemplo:
+
+Si una cuenta no tiene doble factor, la acción no es sentir miedo. La acción correcta es activar MFA y revisar sesiones abiertas.
+
+---
+
+## Bloque 2: Configuración insegura vs ataque
+
+### Configuración insegura
+
+Es una condición que deja un activo expuesto.
+
+Ejemplos:
+
+* Cuenta sin MFA.
+* Router con clave predeterminada.
+* Celular sin bloqueo.
+* App con permisos excesivos.
+* Perfil público con demasiada información.
+* Sistema operativo desactualizado.
+
+### Ataque
+
+Es la acción realizada por un atacante o estafador para aprovechar una debilidad.
+
+Ejemplos:
+
+* Enviar un phishing.
+* Probar contraseñas filtradas.
+* Usar una red WiFi falsa.
+* Instalar malware.
+* Suplantar a un contacto.
+* Robar una sesión abierta.
+
+Mensaje clave:
+
+Una configuración insegura no siempre produce un incidente de inmediato, pero aumenta la posibilidad de que un ataque tenga éxito.
+
+---
+
+## Bloque 3: Superficie de ataque en lenguaje ciudadano
+
+Texto para mostrar al estudiante:
+
+La superficie de ataque es el conjunto de lugares por donde un atacante podría intentar entrar o engañar.
+
+En una persona, esa superficie puede incluir:
+
+* Correo principal.
+* Redes sociales.
+* Celular.
+* Computador.
+* Router de casa.
+* WhatsApp.
+* Aplicaciones bancarias.
+* Nube.
+* Dispositivos compartidos.
+* Aplicaciones instaladas.
+* Formularios en línea.
+* Contraseñas reutilizadas.
+* Información publicada en redes.
+
+Mientras más cuentas, dispositivos y servicios uses, más importante es revisar configuraciones y reducir puntos débiles.
+
+Mensaje clave:
+
+**Reducir superficie de ataque significa cerrar puertas innecesarias.**
+
+---
+
+## Bloque 4: Vulnerabilidades comunes por categoría
+
+### Cuentas
+
+Vulnerabilidades frecuentes:
+
+* Contraseña débil.
+* Contraseña repetida.
+* Sin MFA.
+* Datos de recuperación desactualizados.
+* Sesiones abiertas.
+* Aplicaciones conectadas innecesarias.
+* Alertas de seguridad ignoradas.
+
+Controles:
+
+* Frases de contraseña largas.
+* Gestor de contraseñas.
+* MFA.
+* Revisión de recuperación.
+* Cierre de sesiones desconocidas.
+* Revocar apps conectadas.
+
+---
+
+### Dispositivos
+
+Vulnerabilidades frecuentes:
+
+* Celular sin bloqueo.
+* Computador sin contraseña.
+* Sistema desactualizado.
+* Antivirus desactivado.
+* USB desconocidas.
+* Programas piratas.
+* Archivos descargados sin verificar.
+
+Controles:
+
+* Bloqueo automático.
+* Actualizaciones.
+* Protección activa.
+* No conectar USB desconocidas.
+* Descargar solo de fuentes oficiales.
+* Revisar archivos antes de abrir.
+
+---
+
+### Redes
+
+Vulnerabilidades frecuentes:
+
+* Router con clave predeterminada.
+* WiFi sin cifrado seguro.
+* Contraseña WiFi débil.
+* No separar red de invitados.
+* Uso de WiFi pública para banca.
+* Conexión automática a redes abiertas.
+
+Controles:
+
+* Cambiar clave del router.
+* Usar WPA2 o WPA3.
+* Crear red de invitados.
+* Usar datos móviles para banca.
+* Desactivar conexión automática.
+* Usar VPN confiable si es necesario.
+
+---
+
+### Aplicaciones y privacidad
+
+Vulnerabilidades frecuentes:
+
+* Apps con permisos excesivos.
+* Apps descargadas fuera de tiendas oficiales.
+* Ubicación compartida sin control.
+* Perfil público con información sensible.
+* Cuentas abandonadas.
+* Publicación de rutinas familiares.
+
+Controles:
+
+* Revisar permisos.
+* Eliminar apps innecesarias.
+* Configurar privacidad.
+* Limitar ubicación.
+* Eliminar cuentas antiguas.
+* Evitar publicar rutinas y datos sensibles.
+
+---
+
+### Respaldo y recuperación
+
+Vulnerabilidades frecuentes:
+
+* Sin copia de seguridad.
+* Copia no verificada.
+* Documentos importantes en un solo dispositivo.
+* Nube sin MFA.
+* No saber cómo recuperar una cuenta.
+
+Controles:
+
+* Copias automáticas.
+* Regla 3-2-1.
+* Verificación periódica de recuperación.
+* MFA en cuenta de nube.
+* Datos de recuperación actualizados.
+
+---
+
+## Bloque 5: Controles preventivos
+
+Crear una tarjeta llamada:
+
+**“Control = acción que reduce el riesgo”**
+
+Ejemplos:
+
+* Vulnerabilidad: contraseña repetida.
+  Control: usar contraseña única y gestor.
+
+* Vulnerabilidad: cuenta sin MFA.
+  Control: activar doble factor.
+
+* Vulnerabilidad: celular sin bloqueo.
+  Control: activar PIN, huella o rostro.
+
+* Vulnerabilidad: router con clave predeterminada.
+  Control: cambiar clave del WiFi y de administración.
+
+* Vulnerabilidad: WiFi pública para banca.
+  Control: usar datos móviles.
+
+* Vulnerabilidad: sin copia de seguridad.
+  Control: activar respaldo automático.
+
+* Vulnerabilidad: app con permisos excesivos.
+  Control: revocar permisos o desinstalar.
+
+* Vulnerabilidad: perfil público con información sensible.
+  Control: configurar privacidad.
+
+Mensaje clave:
+
+No todos los controles cuestan dinero. Muchos son cambios de configuración.
+
+---
+
+## Bloque 6: Preguntas para revisar mis configuraciones
+
+Crear una actividad reflexiva no calificable.
+
+Instrucción:
+Responde mentalmente o en tu cuaderno.
+
+Preguntas:
+
+1. ¿Mi correo principal tiene MFA?
+2. ¿Uso la misma contraseña en más de una cuenta?
+3. ¿Reviso sesiones abiertas en mis cuentas?
+4. ¿Mi celular se bloquea automáticamente?
+5. ¿Mi computador tiene contraseña?
+6. ¿Mis dispositivos están actualizados?
+7. ¿Mi router conserva la clave predeterminada?
+8. ¿Uso WiFi pública para pagos o banca?
+9. ¿Reviso permisos de aplicaciones?
+10. ¿Tengo apps que ya no uso?
+11. ¿Publico ubicación o rutinas personales?
+12. ¿Tengo copia de seguridad de documentos importantes?
+13. ¿Sé recuperar mi correo principal?
+14. ¿Tengo cuentas antiguas abandonadas?
+15. ¿Reviso alertas de inicio de sesión?
+
+Mensaje de cierre:
+
+Cada respuesta negativa es una oportunidad de mejora.
+
+---
+
+## Bloque 7: Errores frecuentes al revisar vulnerabilidades
+
+Mostrar tarjetas de alerta:
+
+1. Creer que “eso nunca me pasará”.
+   Corrección:
+   Las vulnerabilidades se corrigen antes del incidente, no después.
+
+2. Pensar que solo las empresas tienen riesgos.
+   Corrección:
+   Las personas también tienen cuentas, datos, dinero, reputación y dispositivos.
+
+3. Confiar solo en el antivirus.
+   Corrección:
+   El antivirus no evita que entregues datos en un sitio falso.
+
+4. Ignorar actualizaciones.
+   Corrección:
+   Las actualizaciones corrigen fallas conocidas.
+
+5. No activar MFA.
+   Corrección:
+   MFA reduce el impacto de una contraseña robada.
+
+6. Guardar todo en un solo dispositivo.
+   Corrección:
+   Sin copia de seguridad, un daño físico puede ser pérdida total.
+
+7. Dejar cuentas antiguas abiertas.
+   Corrección:
+   Una cuenta abandonada puede ser usada para suplantarte.
+
+8. Aceptar todos los permisos.
+   Corrección:
+   Los permisos deben responder a una necesidad real de la app.
+
+---
+
+## Bloque 8: Ejemplo guiado de análisis
+
+Crear ejemplo:
+
+### Activo
+
+Correo principal.
+
+### Vulnerabilidades
+
+* Contraseña repetida.
+* Sin MFA.
+* Teléfono de recuperación desactualizado.
+* Sesiones abiertas en dispositivos antiguos.
+
+### Amenazas
+
+* Phishing.
+* Robo de credenciales.
+* Acceso no autorizado.
+* Suplantación.
+
+### Impacto
+
+* Pérdida de acceso.
+* Restablecimiento de otras cuentas.
+* Envío de mensajes falsos.
+* Exposición de documentos.
+
+### Controles
+
+* Cambiar contraseña por una frase única.
+* Activar MFA.
+* Actualizar recuperación.
+* Cerrar sesiones desconocidas.
+* Revisar actividad reciente.
+
+### Prioridad
+
+Alta.
+
+Explicación:
+El correo principal suele ser un activo crítico porque conecta con muchos otros servicios.
+
+---
+
+## Bloque 9: Mini actividad de ampliación
+
+### “¿Es vulnerabilidad o control?”
+
+Instrucción:
+Clasifica cada elemento como vulnerabilidad o control.
+
+Elementos:
+
+1. Cuenta sin doble factor.
+   Respuesta: Vulnerabilidad.
+
+2. Activar MFA.
+   Respuesta: Control.
+
+3. Contraseña repetida.
+   Respuesta: Vulnerabilidad.
+
+4. Gestor de contraseñas.
+   Respuesta: Control.
+
+5. Router con clave predeterminada.
+   Respuesta: Vulnerabilidad.
+
+6. Cambiar clave del router.
+   Respuesta: Control.
+
+7. Celular sin bloqueo.
+   Respuesta: Vulnerabilidad.
+
+8. Bloqueo automático.
+   Respuesta: Control.
+
+9. Sin copia de seguridad.
+   Respuesta: Vulnerabilidad.
+
+10. Respaldo automático verificado.
+    Respuesta: Control.
+
+Retroalimentación:
+Una vulnerabilidad aumenta el riesgo. Un control reduce el riesgo.
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “Selecciona el control más adecuado”
+
+Instrucción:
+Lee la situación y selecciona la mejor acción.
+
+Situación 1:
+“Tengo la misma contraseña en correo, banco y red social.”
+
+Control:
+Crear contraseñas únicas y usar gestor.
+
+Situación 2:
+“Uso el celular para banca, pero no tiene bloqueo.”
+
+Control:
+Activar PIN, huella o reconocimiento facial.
+
+Situación 3:
+“Uso WiFi pública para entrar al banco.”
+
+Control:
+Usar datos móviles o VPN confiable.
+
+Situación 4:
+“Mi app de linterna pide acceso a contactos y micrófono.”
+
+Control:
+Revocar permisos o desinstalar.
+
+Situación 5:
+“Mis documentos importantes están solo en el computador.”
+
+Control:
+Activar copia de seguridad en nube o medio externo.
+
+---
+
+## Bloque 11: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de vulnerabilidades y controles”**
+
+Términos:
+
+* Vulnerabilidad: debilidad que puede ser aprovechada por una amenaza.
+* Configuración insegura: ajuste que deja expuesto un activo.
+* Amenaza: evento, actor o situación que puede causar daño.
+* Riesgo: posibilidad de que una amenaza aproveche una vulnerabilidad y cause impacto.
+* Impacto: consecuencia de un incidente.
+* Control: medida que reduce el riesgo.
+* Superficie de ataque: conjunto de puntos por donde un atacante puede intentar entrar o engañar.
+* MFA/2FA: doble factor de autenticación.
+* Sesión activa: acceso abierto en un dispositivo o navegador.
+* Permiso de aplicación: autorización para acceder a cámara, micrófono, ubicación, contactos u otros datos.
+* WPA2/WPA3: métodos de cifrado para redes WiFi.
+* Copia de seguridad: respaldo de información importante.
+* Recuperación de cuenta: proceso para volver a acceder a una cuenta.
+* Perfil público: configuración que permite que muchas personas vean información personal.
+* Control preventivo: medida aplicada antes de que ocurra un incidente.
+
+---
+
+## Bloque 12: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en fundamentos de ciberseguridad, riesgos, amenazas, vulnerabilidades y controles.
+
+2. Play It Safe: Manage Security Risks
+   Curso de Google recomendado para ampliar conceptos sobre amenazas, riesgos, vulnerabilidades, marcos y controles de seguridad.
+
+3. Assets, Threats, and Vulnerabilities
+   Curso de Google recomendado para profundizar en activos, amenazas, vulnerabilidades, superficie de ataque y controles.
+
+4. NIST Cybersecurity Framework 2.0
+   Marco de referencia para comprender funciones de gestión de riesgo como gobernar, identificar, proteger, detectar, responder y recuperar.
+
+5. CISA Cyber Essentials
+   Guía práctica para mejorar hábitos y controles básicos de ciberseguridad.
+
+6. Google Security Checkup
+   Herramienta para revisar seguridad de cuenta, dispositivos conectados y actividad sospechosa.
+
+7. Google Password Manager
+   Herramienta para revisar contraseñas guardadas, detectar claves débiles o comprometidas y fortalecer accesos.
+
+8. Have I Been Pwned
+   Recurso para verificar si un correo apareció en filtraciones conocidas.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 13: Cierre de ayuda
+
+Texto de cierre:
+
+Detectar vulnerabilidades no significa buscar fallas para preocuparse. Significa encontrar oportunidades para reducir el riesgo antes de que ocurra un incidente.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Identificar tus configuraciones inseguras.
+2. Relacionar cada debilidad con un control.
+3. Priorizar lo más crítico.
+4. Corregir primero lo que afecta cuentas, dinero, dispositivos y recuperación.
+5. Prepararte para construir una matriz básica de riesgos.
+
+Recuerda:
+
+**Una vulnerabilidad identificada a tiempo es una oportunidad de prevención.**

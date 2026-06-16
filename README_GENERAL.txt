@@ -16,9 +16,11 @@ UNIDAD 1 - Fundamentos y ciberhigiene personal
 UNIDAD 2 - Gestion de riesgos y respuesta inicial
 
 1. ova-u2-01-activos-personales-profesionales
+2. ova-u2-02-vulnerabilidades-configuraciones-inseguras
 
 Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
-entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con la OVA 1 completa.
+entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con las OVAs 1 y 2
+completas.
 
 IMPORTANTE SOBRE LOS SCORM
 
@@ -46,6 +48,8 @@ un color y simbolo de identificacion:
 - OVA 4 - Naranja/rojo - Alerta: phishing y fraudes.
 - OVA 5 - Morado - Lista de verificacion: plan personal.
 - Unidad 2 OVA 1 - Indigo/dorado - Activos: inventario y priorizacion.
+- Unidad 2 OVA 2 - Indigo/dorado con alertas ambar/rojo: vulnerabilidades,
+  configuraciones inseguras y controles.
 
 COMO COMPRIMIR UNA OVA
 
@@ -75,6 +79,7 @@ PAQUETES SCORM GENERADOS
 - OVA-04-laboratorio-phishing-fraudes-SCORM12.zip
 - OVA-05-plan-personal-ciberhigiene-SCORM12.zip
 - OVA-U2-01-activos-personales-profesionales-SCORM12.zip
+- OVA-U2-02-vulnerabilidades-configuraciones-inseguras-SCORM12.zip
 
 Los mismos paquetes tambien estan separados por unidad en la carpeta:
 outputs/scorm-individuales
@@ -96,6 +101,8 @@ ORDEN RECOMENDADO DE PUBLICACION
 5. Producto Final: Plan Personal de Ciberhigiene.
 6. Unidad 2 - Activos personales y profesionales: informacion, dispositivos,
    cuentas y servicios.
+7. Unidad 2 - Vulnerabilidades y configuraciones inseguras: donde esta la
+   debilidad.
 
 VALIDACION DE REPORTES SCORM
 

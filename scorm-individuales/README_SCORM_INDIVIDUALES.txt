@@ -18,6 +18,7 @@ unidad-1/
 
 unidad-2/
 - OVA-U2-01-activos-personales-profesionales-SCORM12.zip
+- OVA-U2-02-vulnerabilidades-configuraciones-inseguras-SCORM12.zip
 
 COMO USAR EN MOODLE
 
@@ -61,3 +62,4 @@ ORDEN RECOMENDADO
 4. OVA-04-laboratorio-phishing-fraudes-SCORM12.zip
 5. OVA-05-plan-personal-ciberhigiene-SCORM12.zip
 6. OVA-U2-01-activos-personales-profesionales-SCORM12.zip
+7. OVA-U2-02-vulnerabilidades-configuraciones-inseguras-SCORM12.zip
