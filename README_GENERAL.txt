@@ -3,7 +3,9 @@ Fundamentos y Ciberhigiene Personal para la Vida Personal, Academica y Laboral
 
 CONTENIDO DEL PROYECTO
 
-Este proyecto esta organizado en cinco OVAs independientes:
+Este proyecto esta organizado por unidades y OVAs independientes.
+
+UNIDAD 1 - Fundamentos y ciberhigiene personal
 
 1. ova-01-introduccion-ciberseguridad
 2. ova-02-cuentas-contrasenas-navegacion
@@ -11,8 +13,12 @@ Este proyecto esta organizado en cinco OVAs independientes:
 4. ova-04-laboratorio-phishing-fraudes
 5. ova-05-plan-personal-ciberhigiene
 
+UNIDAD 2 - Gestion de riesgos y respuesta inicial
+
+1. ova-u2-01-activos-personales-profesionales
+
 Cada carpeta se publica como una actividad SCORM 1.2 separada. En esta entrega,
-las OVAs 1, 2, 3, 4 y 5 estan completas.
+la Unidad 1 esta completa y la Unidad 2 cuenta con la OVA 1 completa.
 
 IDENTIDAD VISUAL DE LA RUTA
 
@@ -25,6 +31,7 @@ un color y simbolo de identificacion:
 - OVA 3 - Verde - Dispositivo: equipos, redes y copias.
 - OVA 4 - Naranja/rojo - Alerta: phishing y fraudes.
 - OVA 5 - Morado - Lista de verificacion: plan personal.
+- Unidad 2 OVA 1 - Indigo/dorado - Activos: inventario y priorizacion.
 
 COMO COMPRIMIR UNA OVA
 
@@ -53,6 +60,7 @@ PAQUETES SCORM GENERADOS
 - OVA-03-dispositivos-wifi-nube-backup-SCORM12.zip
 - OVA-04-laboratorio-phishing-fraudes-SCORM12.zip
 - OVA-05-plan-personal-ciberhigiene-SCORM12.zip
+- OVA-U2-01-activos-personales-profesionales-SCORM12.zip
 
 PONDERACION SUGERIDA EN MOODLE
 
@@ -69,6 +77,8 @@ ORDEN RECOMENDADO DE PUBLICACION
 3. Seguridad en Dispositivos, Redes WiFi, Nube y Copias de Seguridad.
 4. Laboratorio de Phishing, Fraudes y Mensajes Sospechosos.
 5. Producto Final: Plan Personal de Ciberhigiene.
+6. Unidad 2 - Activos personales y profesionales: informacion, dispositivos,
+   cuentas y servicios.
 
 VALIDACION DE REPORTES SCORM
 

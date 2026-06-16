@@ -1,0 +1,334 @@
+Material de ayuda y ampliacion para la OVA 1 - Unidad 2
+=======================================================
+
+Activos personales y profesionales: informacion, dispositivos, cuentas y servicios
+--------------------------------------------------------------------------------
+
+Seccion complementaria:
+"Aprende mas: de los activos al riesgo"
+
+Proposito:
+Ayudar al estudiante a comprender que la gestion del riesgo empieza por reconocer
+que activos tiene, que valor poseen y que consecuencias tendria perderlos,
+alterarlos o exponerlos.
+
+Idea central:
+Antes de proteger, hay que identificar. Antes de priorizar, hay que clasificar.
+
+1. Por que los activos son el punto de partida
+---------------------------------------------
+
+En ciberseguridad, un error comun es empezar preguntando "que herramienta
+necesito", cuando la primera pregunta deberia ser: "que necesito proteger".
+
+No todas las cuentas, archivos o dispositivos tienen el mismo valor. Algunos
+activos son de apoyo, mientras otros son esenciales para estudiar, trabajar,
+recibir pagos, comunicarse, recuperar cuentas o mantener la reputacion personal
+y profesional.
+
+Ejemplo:
+Una cuenta de entretenimiento puede ser importante, pero el correo principal
+puede ser critico porque permite recuperar muchas otras cuentas.
+
+2. Diferencia entre activo, dato, cuenta y servicio
+--------------------------------------------------
+
+Activo digital:
+Cualquier elemento digital que tiene valor y debe protegerse.
+Ejemplos: correo principal, celular, cuenta bancaria, documentos en la nube.
+
+Dato:
+Unidad de informacion.
+Ejemplos: nombre, direccion, correo, numero de contacto, calificacion, factura.
+
+Cuenta:
+Acceso a un servicio digital.
+Ejemplos: Gmail, Outlook, Facebook, Instagram, Moodle, banco, billetera digital.
+
+Servicio:
+Plataforma o sistema utilizado para realizar una actividad.
+Ejemplos: Google Drive, OneDrive, iCloud, plataforma educativa, banca en linea.
+
+Mensaje:
+Un servicio puede contener cuentas, datos y archivos. Por eso, algunos servicios
+se vuelven activos criticos.
+
+3. Informacion critica y dependencia digital
+--------------------------------------------
+
+Una informacion es critica cuando su perdida, alteracion o exposicion puede
+generar dano importante.
+
+Puede afectar:
+- Dinero.
+- Estudio.
+- Trabajo.
+- Reputacion.
+- Privacidad.
+- Seguridad familiar.
+- Continuidad de un negocio.
+- Relacion con clientes o usuarios.
+- Acceso a otros servicios.
+
+Preguntas guia:
+1. Que informacion no podria perder?
+2. Que cuenta necesito para recuperar otras cuentas?
+3. Que dispositivo uso para trabajar o estudiar?
+4. Que archivo me causaria problemas si se borra?
+5. Que informacion me causaria dano si se publica?
+6. Que servicio uso todos los dias?
+7. Que activo afecta directamente mi dinero?
+8. Que activo afecta mi reputacion?
+
+4. Clasificacion basica de informacion
+--------------------------------------
+
+No toda la informacion se trata igual.
+
+Publica:
+Informacion que puede compartirse sin generar dano.
+Ejemplo: horario general de atencion, informacion publicada oficialmente.
+
+Interna o personal de uso limitado:
+Informacion que no deberia publicarse ampliamente.
+Ejemplo: apuntes de clase, archivos de trabajo, borradores o comunicaciones
+internas.
+
+Confidencial:
+Informacion que puede causar dano si se expone.
+Ejemplo: documentos de identidad, datos financieros, contratos, informacion de
+clientes, datos academicos o informacion laboral sensible.
+
+Critica:
+Informacion indispensable para operar, estudiar, trabajar o recuperar servicios.
+Ejemplo: acceso al correo principal, documentos unicos, respaldo de informacion
+clave, base de clientes o credenciales de recuperacion.
+
+Mensaje:
+Mientras mas sensible o critica sea la informacion, mayores controles necesita.
+
+5. Activo, amenaza, vulnerabilidad, impacto y control
+-----------------------------------------------------
+
+Activo:
+Lo que tiene valor. Ejemplo: correo principal.
+
+Amenaza:
+Lo que puede causar dano. Ejemplo: phishing para robar credenciales.
+
+Vulnerabilidad:
+La debilidad que permite que la amenaza tenga exito. Ejemplo: contrasena
+repetida y sin MFA.
+
+Impacto:
+La consecuencia si ocurre el incidente. Ejemplo: perdida de acceso,
+suplantacion, robo de informacion o dano reputacional.
+
+Control:
+Accion que reduce el riesgo. Ejemplo: contrasena unica, MFA, correo de
+recuperacion actualizado y revision de sesiones.
+
+Formula:
+Activo + Amenaza + Vulnerabilidad = Riesgo
+Control = accion que reduce el riesgo
+
+6. Preguntas para identificar activos criticos
+---------------------------------------------
+
+Actividad reflexiva no calificable:
+1. Que cuenta uso para recuperar las demas?
+2. Donde guardo mis documentos mas importantes?
+3. Que dispositivo uso para estudiar o trabajar?
+4. Que aplicacion afecta directamente mi dinero?
+5. Que red social afecta mi reputacion o negocio?
+6. Que informacion no quisiera que se hiciera publica?
+7. Que archivo no puedo reconstruir facilmente?
+8. Que servicio uso todos los dias?
+9. Que activo afectaria a otras personas si se compromete?
+10. Que activo tiene sesiones abiertas en varios dispositivos?
+
+Si una respuesta aparece varias veces, probablemente estas frente a un activo
+critico.
+
+7. Errores frecuentes al hacer inventario
+-----------------------------------------
+
+1. Creer que solo los computadores son activos.
+Correccion: tambien son activos las cuentas, archivos, servicios, informacion y
+dispositivos moviles.
+
+2. No incluir el correo principal.
+Correccion: el correo suele ser uno de los activos mas criticos porque permite
+recuperar otras cuentas.
+
+3. Olvidar servicios en la nube.
+Correccion: Drive, iCloud, OneDrive y otras nubes pueden contener informacion
+sensible.
+
+4. No considerar dispositivos compartidos.
+Correccion: un equipo compartido puede tener sesiones abiertas o archivos
+descargados.
+
+5. No valorar la reputacion digital.
+Correccion: una red social comprometida puede afectar clientes, contactos,
+familia o trabajo.
+
+6. No pensar en impacto economico.
+Correccion: banca, billeteras digitales, compras y aplicaciones de pago
+requieren prioridad alta.
+
+7. No revisar copias unicas.
+Correccion: si solo existe una copia de un archivo importante, ese activo tiene
+mayor riesgo.
+
+8. Ejemplo guiado de inventario
+-------------------------------
+
+Perfil:
+Carlos es estudiante y trabaja como independiente.
+
+Activos identificados:
+- Correo principal.
+- Celular personal.
+- Cuenta bancaria.
+- WhatsApp.
+- Plataforma educativa.
+- Google Drive.
+- Carpeta de facturas.
+- Red social del emprendimiento.
+- Computador portatil.
+- Copias de seguridad.
+
+Criticos:
+- Correo principal.
+- Celular personal.
+- Cuenta bancaria.
+- Google Drive con documentos.
+- Red social del emprendimiento.
+
+Importantes:
+- Plataforma educativa.
+- Computador portatil.
+- Carpeta de facturas.
+
+De apoyo:
+- Cuenta de entretenimiento.
+- Aplicaciones no esenciales.
+
+Priorizacion:
+1. Correo principal.
+2. Cuenta bancaria.
+3. Celular personal.
+4. Google Drive.
+5. Red social del emprendimiento.
+6. Plataforma educativa.
+
+Controles iniciales:
+- Activar MFA.
+- Cambiar contrasenas repetidas.
+- Revisar sesiones activas.
+- Activar copias de seguridad.
+- Proteger el celular con bloqueo automatico.
+- Revisar permisos de aplicaciones.
+
+9. Conexion con gestion del riesgo
+----------------------------------
+
+Esta OVA es el primer paso para construir una matriz de riesgos.
+
+En las proximas actividades, cada activo podra analizarse con preguntas como:
+- Que amenaza puede afectarlo?
+- Que vulnerabilidad tiene?
+- Que impacto tendria un incidente?
+- Que probabilidad existe?
+- Que control puedo aplicar?
+- Que accion preventiva debo priorizar?
+
+Ejemplo:
+Activo: cuenta bancaria.
+Amenaza: fraude por phishing.
+Vulnerabilidad: ingresar desde enlaces recibidos por SMS.
+Impacto: perdida economica.
+Control: no abrir enlaces bancarios por SMS, usar app oficial y activar MFA.
+
+10. Mini actividad de ampliacion
+--------------------------------
+
+Activo o no activo:
+1. Correo principal: activo digital.
+2. Cuenta bancaria en linea: activo digital.
+3. Recuerdo de una contrasena escrito en nota visible: riesgo asociado a un
+   activo; no deberia gestionarse asi.
+4. Cargador del celular: recurso fisico de apoyo, no activo digital critico.
+5. Carpeta con documentos laborales en la nube: activo digital.
+6. Red social usada para ventas: activo digital critico o importante.
+7. Foto de documento de identidad guardada en celular: informacion sensible.
+8. Router de casa: activo tecnologico de apoyo importante.
+
+Retroalimentacion:
+Un activo digital no siempre es una aplicacion. Tambien puede ser informacion,
+acceso, archivo, dispositivo o servicio.
+
+11. Glosario
+------------
+
+Activo digital: cuenta, dispositivo, servicio, dato o archivo que tiene valor.
+Informacion critica: informacion cuya perdida, alteracion o exposicion causa dano.
+Cuenta critica: cuenta que permite acceso o recuperacion de otros servicios.
+Dependencia digital: nivel en que una persona depende de un activo para estudiar,
+trabajar, comunicarse o recibir servicios.
+Amenaza: evento, actor o situacion que puede causar dano.
+Vulnerabilidad: debilidad que puede ser aprovechada por una amenaza.
+Impacto: consecuencia si ocurre un incidente.
+Probabilidad: posibilidad de que algo ocurra.
+Riesgo: combinacion entre impacto y probabilidad.
+Control: medida que reduce un riesgo.
+Clasificacion de informacion: organizacion de datos segun sensibilidad.
+Activo critico: activo cuya perdida, bloqueo o exposicion genera alto impacto.
+Activo importante: activo que genera impacto medio si se afecta.
+Activo de apoyo: activo util, pero no esencial.
+Inventario de activos: lista organizada de activos digitales.
+Priorizacion: decision sobre que proteger primero.
+
+12. Recursos externos opcionales
+--------------------------------
+
+Estos recursos requieren internet y no son obligatorios para completar el SCORM.
+
+- Google Cybersecurity Certificate:
+  https://grow.google/certificates/cybersecurity/
+
+- Play It Safe: Manage Security Risks:
+  https://www.coursera.org/learn/manage-security-risks
+
+- Assets, Threats, and Vulnerabilities:
+  https://www.coursera.org/learn/assets-threats-and-vulnerabilities
+
+- NIST Cybersecurity Framework 2.0:
+  https://www.nist.gov/cyberframework
+
+- NIST Risk Management Framework:
+  https://csrc.nist.gov/projects/risk-management/about-rmf
+
+- CISA Cyber Essentials:
+  https://www.cisa.gov/resources-tools/resources/cyber-essentials
+
+- Have I Been Pwned:
+  https://haveibeenpwned.com/
+
+- Google Security Checkup:
+  https://myaccount.google.com/security-checkup
+
+13. Cierre
+----------
+
+La gestion del riesgo empieza con una lista clara de lo que importa.
+
+Despues de esta OVA, la meta es concreta:
+1. Identificar activos digitales.
+2. Clasificarlos por criticidad.
+3. Reconocer cuales afectan dinero, estudio, trabajo, privacidad o reputacion.
+4. Priorizar que se debe proteger primero.
+5. Prepararse para analizar amenazas, vulnerabilidades, impacto y controles.
+
+Lo que no identificas, no lo proteges. Lo que no clasificas, no lo priorizas.
