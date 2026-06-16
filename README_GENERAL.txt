@@ -17,8 +17,22 @@ UNIDAD 2 - Gestion de riesgos y respuesta inicial
 
 1. ova-u2-01-activos-personales-profesionales
 
-Cada carpeta se publica como una actividad SCORM 1.2 separada. En esta entrega,
-la Unidad 1 esta completa y la Unidad 2 cuenta con la OVA 1 completa.
+Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
+entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con la OVA 1 completa.
+
+IMPORTANTE SOBRE LOS SCORM
+
+Los SCORM no deben publicarse como un paquete integrado del curso. Cada OVA debe
+subirse a Moodle como un ZIP independiente.
+
+La entrega individual esta organizada en:
+
+- outputs/scorm-individuales/unidad-1
+- outputs/scorm-individuales/unidad-2
+
+No suba a Moodle la carpeta curso-ovas-ciberseguridad ni la carpeta
+scorm-individuales como un unico paquete. Suba solo el ZIP de la OVA que
+corresponda a cada actividad.
 
 IDENTIDAD VISUAL DE LA RUTA
 
@@ -61,6 +75,9 @@ PAQUETES SCORM GENERADOS
 - OVA-04-laboratorio-phishing-fraudes-SCORM12.zip
 - OVA-05-plan-personal-ciberhigiene-SCORM12.zip
 - OVA-U2-01-activos-personales-profesionales-SCORM12.zip
+
+Los mismos paquetes tambien estan separados por unidad en la carpeta:
+outputs/scorm-individuales
 
 PONDERACION SUGERIDA EN MOODLE
 
