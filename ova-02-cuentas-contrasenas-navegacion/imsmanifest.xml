@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST-OVA-02-CUENTAS-CONTRASENAS"
+  version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+  http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-OVA-02">
+    <organization identifier="ORG-OVA-02">
+      <title>OVA 2 - Protección de Cuentas, Contraseñas, Correo, Redes Sociales y Navegación</title>
+      <item identifier="ITEM-OVA-02" identifierref="RES-OVA-02">
+        <title>Protección de Cuentas, Contraseñas, Correo, Redes Sociales y Navegación</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-OVA-02" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="css/styles.css"/>
+      <file href="js/scorm-api.js"/>
+      <file href="js/app.js"/>
+      <file href="assets/README.txt"/>
+      <file href="assets/MATERIAL_AYUDA_OVA2.txt"/>
+      <file href="assets/logo-unicartagena-ctev.png"/>
+      <file href="assets/fondo-hexagonal-azul.jpeg"/>
+      <file href="assets/candado-digital.png"/>
+      <file href="assets/escudo-llave.png"/>
+      <file href="assets/escudo-candado.png"/>
+      <file href="assets/phishing-correo.png"/>
+      <file href="assets/celular-alerta-real.png"/>
+      <file href="assets/globo-digital.png"/>
+    </resource>
+  </resources>
+</manifest>
+

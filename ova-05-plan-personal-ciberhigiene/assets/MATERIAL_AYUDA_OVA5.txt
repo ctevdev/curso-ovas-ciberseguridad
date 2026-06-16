@@ -1,0 +1,216 @@
+Material de ayuda y ampliacion para la OVA 5
+===========================================
+
+Aprende mas: convierte tu diagnostico en habitos
+-------------------------------------------------
+
+La ciberhigiene no es una tarea de un solo dia. Es una rutina de proteccion
+continua. Esta OVA no busca que el estudiante memorice conceptos, sino que
+traduzca lo aprendido en decisiones concretas para sus cuentas, dispositivos,
+copias de seguridad y comportamiento frente a fraudes.
+
+1. Que es ciberhigiene
+----------------------
+
+La ciberhigiene es el conjunto de habitos cotidianos que reducen el riesgo de
+perder acceso a cuentas, sufrir robo de informacion, caer en fraudes o exponer
+datos personales. Incluye:
+
+- Usar contrasenas unicas y largas.
+- Activar MFA o doble factor en cuentas criticas.
+- No compartir codigos de verificacion.
+- Mantener dispositivos actualizados.
+- Revisar permisos de aplicaciones.
+- Hacer copias de seguridad.
+- Verificar enlaces, remitentes y dominios.
+- Reportar mensajes sospechosos.
+- Revisar privacidad en redes sociales.
+- Hablar con familia, estudiantes o companeros sobre senales de fraude.
+
+2. Como interpretar el puntaje
+------------------------------
+
+90 a 100 - Excelente
+El estudiante tiene una base fuerte. Debe mantener revision trimestral, verificar
+MFA, actualizar contrasenas filtradas, probar recuperacion de cuentas, confirmar
+copias de seguridad y compartir buenas practicas con su entorno.
+
+60 a 89 - Bien con oportunidades
+Existe una base util, pero tambien brechas que pueden convertirse en incidentes.
+Se recomienda activar MFA, eliminar contrasenas repetidas, revisar privacidad en
+redes sociales, confirmar copia de fotos y documentos, cambiar clave del router
+y reforzar senales de phishing.
+
+Menos de 60 - Plan urgente
+Hay riesgos prioritarios. Se recomienda proteger primero el correo principal,
+activar MFA, cambiar contrasenas repetidas, hacer una copia basica, activar
+bloqueo de celular, revisar dispositivos conectados, evitar WiFi publica para
+banca y repasar phishing y protocolo STOP.
+
+3. Primeras 24 horas
+--------------------
+
+- Activar MFA en el correo principal.
+- Cambiar contrasenas repetidas en servicios criticos.
+- Configurar bloqueo automatico del celular.
+- Confirmar copia de fotos o documentos importantes.
+- Revisar dispositivos y sesiones conectadas.
+- Eliminar aplicaciones innecesarias.
+- Revisar privacidad de redes sociales.
+- Conversar con familia o equipo sobre no compartir codigos.
+
+4. Revision semanal
+-------------------
+
+- Instalar actualizaciones pendientes.
+- Revisar mensajes sospechosos sin hacer clic.
+- Confirmar que las copias automaticas siguen activas.
+- Eliminar apps que ya no se usan.
+- Revisar alertas de seguridad recibidas durante la semana.
+
+5. Revision mensual
+-------------------
+
+- Revisar permisos de aplicaciones.
+- Revisar contrasenas guardadas en el gestor.
+- Confirmar privacidad en redes sociales.
+- Revisar dispositivos conectados a cuentas principales.
+- Probar acceso a la nube donde estan las copias.
+
+6. Revision cada tres meses
+---------------------------
+
+- Cambiar contrasenas expuestas en filtraciones.
+- Revisar MFA en cuentas criticas.
+- Probar recuperacion del correo principal.
+- Revisar router y WiFi.
+- Actualizar el plan personal de ciberhigiene.
+
+7. Prioridades por riesgo
+-------------------------
+
+Primero protege el acceso a todo:
+- Correo principal.
+- Cuenta Google o Apple.
+- Cuenta Microsoft.
+- WhatsApp.
+
+Luego protege el dinero:
+- Banco.
+- Billeteras digitales.
+- Aplicaciones de pago.
+- Plataformas de compra.
+
+Despues protege la reputacion:
+- Redes sociales.
+- Cuentas institucionales.
+- Cuentas academicas.
+- Cuentas laborales.
+
+Asegura la recuperacion:
+- Copias de documentos.
+- Fotos importantes.
+- Evidencias.
+- Archivos en la nube.
+
+Cierra con habitos familiares:
+- No compartir codigos.
+- Verificar antes de pagar.
+- Desconfiar de premios no solicitados.
+- Reportar mensajes sospechosos.
+
+8. Indicadores de mejora
+------------------------
+
+- Tienes MFA activo en correo, banco y red social principal.
+- Ya no reutilizas contrasenas criticas.
+- Tu celular se bloquea automaticamente.
+- Tienes copia de fotos y documentos.
+- Reconoces senales de phishing.
+- Sabes aplicar STOP.
+- Tu familia o equipo conoce la regla de no compartir codigos.
+
+9. Errores comunes al hacer planes
+----------------------------------
+
+- Escribir metas vagas como "ser mas cuidadoso".
+- No poner fecha.
+- Intentar resolver todo en un dia.
+- Proteger redes sociales antes que el correo principal.
+- Olvidar copias de seguridad.
+- No revisar recuperacion de cuenta.
+- No hablar con personas que comparten dispositivos o redes.
+
+10. Ejemplos de compromisos bien escritos
+-----------------------------------------
+
+- Activare MFA en mi correo principal antes del viernes.
+- Cambiare las contrasenas repetidas de banco y redes sociales esta semana.
+- Configurare copia automatica de fotos y documentos antes del fin de mes.
+- Revisare los dispositivos conectados a mi cuenta Google hoy.
+- Cambiare la clave del WiFi de mi casa esta semana.
+- Practicare el protocolo STOP con mi familia el domingo.
+
+11. Glosario
+------------
+
+Ciberhigiene:
+Habitos de proteccion digital que se realizan de forma constante.
+
+MFA:
+Autenticacion multifactor. Agrega una verificacion adicional a la contrasena.
+
+Passkey:
+Metodo de inicio de sesion resistente a phishing en servicios compatibles.
+
+Backup:
+Copia de seguridad que permite recuperar informacion.
+
+Phishing:
+Engano digital para robar informacion o inducir una accion riesgosa.
+
+Gestor de contrasenas:
+Herramienta para guardar claves unicas y fuertes.
+
+12. Recursos externos opcionales
+--------------------------------
+
+Estos recursos requieren internet. Deben presentarse como botones de ampliacion
+o lincografia final, no como requisito obligatorio dentro del SCORM.
+
+- Google Cybersecurity Certificate:
+  https://grow.google/certificates/cybersecurity/
+
+- Google Security Checkup:
+  https://myaccount.google.com/security-checkup
+
+- Google Password Manager:
+  https://passwords.google.com/
+
+- Google Passkeys:
+  https://support.google.com/accounts/answer/13548313?hl=es
+
+- NIST Cybersecurity Framework 2.0:
+  https://www.nist.gov/cyberframework
+
+- Have I Been Pwned:
+  https://haveibeenpwned.com/
+
+- Bitwarden:
+  https://bitwarden.com/
+
+- 2FA Directory:
+  https://2fa.directory/us/
+
+- Google Phishing Quiz:
+  https://phishingquiz.withgoogle.com/
+
+- Centro Cibernetico Policial / CAI Virtual:
+  https://caivirtual.policia.gov.co/
+
+13. Cierre
+----------
+
+El plan personal no tiene que ser perfecto. Debe ser util, honesto y posible.
+La mejor proteccion empieza con tres acciones concretas que se puedan cumplir
+esta semana.

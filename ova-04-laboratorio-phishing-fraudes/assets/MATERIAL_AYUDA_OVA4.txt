@@ -1,0 +1,271 @@
+MATERIAL DE AYUDA Y AMPLIACIÓN PARA LA OVA 4
+Laboratorio de Phishing, Fraudes y Mensajes Sospechosos
+
+Sección complementaria:
+“Aprende más: detectar fraudes antes de interactuar”
+
+Propósito
+Ayudar al estudiante a comprender que el phishing y los fraudes digitales no dependen solamente de tecnología. Muchas veces se apoyan en emociones, presión, confianza falsa y falta de verificación.
+
+Idea central
+Antes de hacer clic, responder, descargar, pagar o entregar datos, detente y verifica.
+
+1. Phishing no es solo correo electrónico
+El engaño puede llegar por correo electrónico, SMS, WhatsApp, Telegram, llamada telefónica, redes sociales, marketplace, código QR, formularios falsos, anuncios patrocinados falsos, supuestas ofertas laborales y supuestos premios o sorteos.
+
+Pregunta clave:
+¿Qué me está pidiendo hacer y qué riesgo implica?
+
+2. Anatomía de un mensaje sospechoso
+Revisa:
+- Remitente: ¿reconozco realmente quién envía el mensaje?
+- Canal: ¿tiene sentido que esta entidad me contacte por este medio?
+- Enlace: ¿la dirección es clara, oficial y coherente?
+- Dominio: ¿corresponde realmente a la entidad?
+- Tono emocional: ¿genera urgencia, miedo, presión o ilusión exagerada?
+- Solicitud: ¿pide usuario, contraseña, código, token, PIN, pago o datos personales?
+- Archivo adjunto: ¿esperaba ese archivo? ¿es comprimido, ejecutable o extraño?
+- Consecuencia: ¿amenaza con bloqueo, multa, pérdida de acceso o cobro jurídico?
+- Beneficio: ¿promete premio, dinero fácil, empleo inmediato o inversión segura?
+- Acción segura: ¿cómo puedo verificar por otro canal antes de actuar?
+
+3. Señales universales de alerta
+- Mensaje inesperado.
+- Urgencia extrema.
+- Amenaza de bloqueo.
+- Premio no solicitado.
+- Oferta demasiado buena para ser verdad.
+- Solicitud de claves o códigos.
+- Enlace acortado.
+- Dominio parecido pero no igual al oficial.
+- Archivo adjunto inesperado.
+- Errores de redacción.
+- Solicitud de transferencia inmediata.
+- Número desconocido.
+- Perfil recién creado.
+- Petición de secreto.
+- Presión para no consultar con nadie.
+- Solicitud de instalar una aplicación.
+
+Mensaje clave:
+Una sola señal no siempre confirma fraude, pero varias señales juntas son motivo suficiente para detenerse y verificar.
+
+4. Legítimo, sospechoso o fraude
+Mensaje legítimo:
+- Era esperado.
+- Llega por un canal habitual.
+- No pide claves ni códigos.
+- No presiona.
+- Permite verificar por canales oficiales.
+- El dominio coincide con la entidad.
+
+Mensaje sospechoso:
+- Podría ser real, pero tiene elementos que requieren validación.
+- Usa remitente conocido, pero trae enlace.
+- Habla de seguridad o actividad inusual.
+- Requiere verificar desde la app o sitio oficial.
+
+Mensaje fraudulento:
+- Pide datos sensibles.
+- Pide códigos o tokens.
+- Tiene dominio falso.
+- Amenaza con bloqueo inmediato.
+- Promete dinero o premios.
+- Pide transferencia o pago.
+- Tiene adjuntos peligrosos.
+- Viene de perfil o número desconocido.
+
+5. Qué nunca debes compartir
+- Contraseñas.
+- PIN.
+- Códigos SMS.
+- Tokens.
+- Claves dinámicas.
+- Códigos QR de autenticación.
+- Datos completos de tarjeta.
+- Códigos CVV.
+- Fotos de documentos.
+- Capturas de apps bancarias.
+- Códigos de recuperación.
+- Enlaces privados de acceso.
+- Cuentas de correo institucional o personal.
+- Información de familiares para verificación.
+
+Un banco, una entidad pública, una red social o una plataforma seria no debería pedirte códigos de verificación por WhatsApp, llamada o enlace sospechoso.
+
+6. Cómo verificar sin caer
+Verificar no significa responder al mismo mensaje. Verificar significa usar un canal diferente y confiable.
+
+Acciones seguras:
+1. No usar el enlace recibido.
+2. Abrir la app oficial.
+3. Escribir manualmente la dirección web.
+4. Llamar al número oficial publicado en la página de la entidad.
+5. Consultar desde otro canal.
+6. Preguntar al área de TI si es institucional.
+7. Revisar el dominio real.
+8. Revisar dispositivos conectados y actividad de seguridad.
+9. Confirmar con la persona por llamada si pide dinero.
+10. Reportar si hay sospecha.
+
+7. Trampas emocionales ampliadas
+Urgencia:
+Ejemplo: “Tu cuenta será bloqueada en 30 minutos.”
+Riesgo: actuar sin pensar.
+Respuesta segura: pausar y verificar por canal oficial.
+
+Miedo:
+Ejemplo: “Detectamos una compra fraudulenta.”
+Riesgo: entregar datos en pánico.
+Respuesta segura: no compartir códigos; llamar directamente a la entidad.
+
+Autoridad:
+Ejemplo: “Soy funcionario del banco, DIAN, Policía o soporte técnico.”
+Riesgo: obedecer sin confirmar identidad.
+Respuesta segura: colgar o cerrar chat y verificar con la entidad.
+
+Confianza:
+Ejemplo: “Soy amigo de tu familiar.”
+Riesgo: aceptar solicitudes sin validar.
+Respuesta segura: confirmar con la persona real por otro canal.
+
+Beneficio:
+Ejemplo: “Ganaste un premio.”
+Riesgo: pagar para reclamar algo falso.
+Respuesta segura: desconfiar de premios no solicitados.
+
+Simpatía:
+Ejemplo: “Hazme este favor rápido, no le digas a nadie.”
+Riesgo: ser manipulado emocionalmente.
+Respuesta segura: no actuar bajo presión ni secreto.
+
+8. Fraudes frecuentes con ejemplos ciudadanos
+Falso paquete retenido:
+“Tu paquete está retenido. Paga $3.200 para liberarlo.”
+Señales: monto bajo, enlace, urgencia y empresa de envío suplantada.
+Acción: entrar directamente a la página oficial de la empresa de transporte.
+
+Falso banco:
+“Compra sospechosa por $950.000. Responde NO y verifica aquí.”
+Señales: urgencia, SMS, enlace y supuesta compra.
+Acción: no responder. Llamar al banco por canal oficial.
+
+Falsa DIAN:
+“Tiene una notificación tributaria urgente. Confirme datos.”
+Señales: autoridad, miedo y solicitud de datos.
+Acción: consultar directamente en canales oficiales.
+
+QR falso:
+“Escanea para pagar o reclamar bono.”
+Señales: QR pegado encima de otro, cartel improvisado o URL desconocida.
+Acción: no escanear si el origen no es confiable.
+
+Tienda falsa:
+“Celular de alta gama a precio imposible. Solo transferencia.”
+Señales: precio irreal, presión y pago inseguro.
+Acción: verificar reputación y usar medios de pago protegidos.
+
+Oferta laboral falsa:
+“Trabajo desde casa. Ingresos altos. Envía tus datos bancarios.”
+Señales: promesa exagerada, datos financieros y proceso informal.
+Acción: verificar empresa y no entregar información sensible.
+
+Romance scam:
+Persona desconocida crea confianza y luego pide ayuda económica.
+Señales: relación rápida, excusas y petición de dinero.
+Acción: no enviar dinero y verificar identidad.
+
+Premio falso:
+“Ganaste un televisor. Paga el envío.”
+Señales: premio no solicitado y pago previo.
+Acción: no pagar para reclamar premios inesperados.
+
+9. Protocolo STOP ampliado
+Actúa rápido, pero sin pánico.
+
+STOP:
+Para inmediatamente. No hagas más clics, no sigas instrucciones, no respondas más mensajes y no entregues información adicional.
+
+DESCONECTA:
+Si entregaste datos bancarios o credenciales, llama inmediatamente al banco o plataforma para bloquear movimientos. Si instalaste una app sospechosa, desconecta el equipo de internet y pide apoyo técnico.
+
+CAMBIA:
+Cambia contraseñas desde otro dispositivo seguro. Prioriza correo principal, banco, redes sociales, aplicación afectada y plataforma educativa o laboral. Activa MFA si no estaba activo.
+
+REPORTA:
+Reporta el incidente al banco, plataforma afectada, área de TI, soporte institucional, autoridad competente o Centro Cibernético Policial.
+
+DOCUMENTA:
+Guarda evidencias: capturas del mensaje, número telefónico, correo del remitente, URL, perfil, comprobante, movimiento no autorizado, fecha y hora.
+
+No borres todo de inmediato. La evidencia puede ser necesaria para el reporte.
+
+10. Detecta la trampa emocional
+- “Tienes 15 minutos para evitar el bloqueo de tu cuenta.” Respuesta: urgencia.
+- “Soy del área de fraudes. Alguien está robando tu dinero ahora.” Respuesta: miedo.
+- “Soy funcionario de la DIAN. Debe confirmar sus datos hoy.” Respuesta: autoridad.
+- “Soy amigo de tu prima. Ella me dijo que podía escribirte.” Respuesta: confianza.
+- “Ganaste un bono de $500.000, solo paga el envío.” Respuesta: beneficio.
+- “Hazme este favor rápido, no quiero molestar a nadie más.” Respuesta: simpatía.
+
+11. Construye tu regla de verificación
+Completa mentalmente:
+“Antes de hacer clic o entregar datos, yo voy a…”
+
+Opciones:
+- Revisar el remitente.
+- Revisar el dominio.
+- Entrar por la app oficial.
+- Llamar al número oficial.
+- No compartir códigos.
+- Pedir apoyo al área de TI.
+- Consultar con una persona de confianza.
+- Reportar el mensaje.
+
+Ejemplo:
+“Pauso, verifico el canal oficial y nunca comparto códigos.”
+
+12. Glosario de phishing y fraudes
+- Phishing: engaño digital para robar información o inducir acciones riesgosas.
+- Smishing: phishing enviado por SMS.
+- Vishing: fraude mediante llamada telefónica.
+- Quishing: fraude mediante códigos QR.
+- Ingeniería social: manipulación psicológica para obtener información o acciones.
+- Dominio: nombre principal de un sitio web.
+- URL: dirección completa de una página.
+- Remitente: persona o dirección desde la que llega un mensaje.
+- MFA: doble factor de autenticación.
+- Token: código temporal de verificación.
+- Malware: software malicioso.
+- Adjunto: archivo incluido en un correo o mensaje.
+- Suplantación: hacerse pasar por otra persona o entidad.
+- Evidencia digital: capturas, URLs, números, correos o datos que sirven para documentar un incidente.
+- Incidente: evento que afecta o puede afectar la seguridad.
+- Reporte: comunicación formal de un incidente a la entidad correspondiente.
+
+13. Recursos externos opcionales
+Estos recursos requieren internet y no son necesarios para aprobar el SCORM:
+- Google Phishing Quiz: https://phishingquiz.withgoogle.com/
+- Google Cybersecurity Certificate: https://grow.google/certificates/cybersecurity/
+- Foundations of Cybersecurity: https://www.coursera.org/learn/foundations-of-cybersecurity
+- CISA Recognize and Report Phishing: https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
+- FTC Phishing Scams: https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- INCIBE Ciudadanía: https://www.incibe.es/ciudadania
+- PhishTank: https://www.phishtank.com/
+- Centro Cibernético Policial / CAI Virtual: https://caivirtual.policia.gov.co/
+
+Cierre
+La mejor defensa contra el phishing no es memorizar todos los fraudes posibles. Los fraudes cambian, pero las señales se repiten.
+
+Antes de hacer clic, responder, descargar, pagar o compartir datos:
+1. Pausa.
+2. Revisa el remitente.
+3. Verifica el dominio.
+4. Desconfía de la urgencia.
+5. No compartas códigos.
+6. Usa canales oficiales.
+7. Reporta.
+8. Documenta.
+
+Objetivo final:
+No actuar bajo presión. Verificar antes de interactuar.

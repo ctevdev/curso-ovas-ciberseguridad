@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OVA SCORM 1.2 para crear un plan personal de ciberhigiene">
+  <title>OVA 5 | Plan Personal de Ciberhigiene</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido principal</a>
+  <header class="topbar">
+    <div class="brand-block">
+      <div class="course-mark" aria-hidden="true">05</div>
+      <div>
+        <p class="eyebrow">Curso interactivo de ciberseguridad</p>
+        <h1>OVA 5 · Plan Personal de Ciberhigiene</h1>
+      </div>
+    </div>
+    <img class="institution-logo" src="assets/logo-unicartagena-ctev.png" alt="Logo Universidad de Cartagena y CTEV">
+    <div class="score-chip" aria-live="polite">Puntaje: <strong id="score">0</strong>/100</div>
+  </header>
+
+  <div class="progress-shell" aria-label="Progreso de la OVA">
+    <div class="progress-meta">
+      <span id="step-label">Pantalla 1 de 13</span>
+      <span id="progress-label">8 %</span>
+    </div>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <button id="help-button" class="help-button" type="button" aria-haspopup="dialog">Ayuda para hábitos</button>
+
+  <footer class="site-footer">
+    <p>Un plan honesto vale más que uno perfecto: evalúa tu realidad y decide acciones concretas.</p>
+    <button id="reset-button" class="button button-ghost" type="button">Reiniciar OVA</button>
+  </footer>
+
+  <div id="help-panel" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="dialog-card help-card">
+      <div class="dialog-heading">
+        <h2 id="help-title">Ayuda para convertir mi diagnóstico en hábitos</h2>
+        <button id="close-help" class="button button-ghost" type="button" aria-label="Cerrar ayuda">Cerrar</button>
+      </div>
+      <div class="help-tabs">
+        <details open>
+          <summary>Ciberhigiene básica</summary>
+          <p>Usa contraseñas únicas, activa doble factor, actualiza tus dispositivos, revisa permisos de aplicaciones, respalda información importante y verifica enlaces antes de entrar.</p>
+        </details>
+        <details>
+          <summary>Primeras 24 horas</summary>
+          <p>Protege tu correo principal, cambia contraseñas repetidas, activa bloqueo automático, confirma copias en la nube y revisa sesiones abiertas en cuentas críticas.</p>
+        </details>
+        <details>
+          <summary>Rutina mensual</summary>
+          <p>Revisa aplicaciones instaladas, actualizaciones pendientes, privacidad de redes sociales, copias de seguridad y contraseñas guardadas en tu gestor.</p>
+        </details>
+        <details>
+          <summary>Compromisos útiles</summary>
+          <p>Escribe acciones verificables: "Activaré doble factor en mi correo antes del viernes" funciona mejor que "seré más cuidadoso".</p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div id="confirm-dialog" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <h2 id="dialog-title">¿Reiniciar la OVA?</h2>
+      <p>Se borrarán el progreso, las respuestas, los compromisos y el puntaje de este intento.</p>
+      <div class="button-row">
+        <button id="cancel-reset" class="button button-secondary" type="button">Cancelar</button>
+        <button id="confirm-reset" class="button button-danger" type="button">Sí, reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript>Esta OVA necesita JavaScript habilitado para funcionar.</noscript>
+  <script src="js/scorm-api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

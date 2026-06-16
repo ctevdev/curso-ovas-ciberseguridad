@@ -1,0 +1,172 @@
+MATERIAL DE AYUDA Y AMPLIACIÓN PARA LA OVA 2
+Protección de Cuentas, Contraseñas, Correo, Redes Sociales y Navegación
+
+PROPÓSITO
+
+Este material amplía conceptos de seguridad de cuentas, contraseñas, doble
+factor, correo electrónico, redes sociales y navegación segura. Mantiene
+lenguaje ciudadano y recomendaciones aplicables de inmediato. No solicita
+contraseñas reales, códigos de verificación, números de documento ni datos
+bancarios.
+
+1. TU CUENTA PRINCIPAL ES LA PUERTA DE ENTRADA A TU VIDA DIGITAL
+
+Tu correo principal no es solo un buzón. En muchos casos permite recuperar redes
+sociales, banca digital, plataformas educativas, compras en línea, documentos en
+la nube y aplicaciones personales.
+
+Si alguien toma control de tu correo, puede intentar restablecer contraseñas de
+otros servicios, revisar información privada, suplantar tu identidad o enviar
+mensajes fraudulentos a tus contactos.
+
+2. CONTRASEÑA LARGA, ÚNICA Y FÁCIL DE RECORDAR
+
+Una contraseña insegura suele incluir nombres, fechas, mascotas, número de
+documento, palabras comunes o secuencias como 123456, qwerty o abc123.
+
+Una estructura más segura puede ser una frase larga con varias palabras,
+símbolos y números, sin datos personales.
+
+Regla ciudadana:
+Más longitud, menos repetición y cero datos personales.
+
+3. NO REUTILIZAR CONTRASEÑAS
+
+Usar la misma contraseña en varias cuentas es peligroso. Si una tienda o red
+social sufre una filtración, los atacantes pueden probar esa misma contraseña en
+correo, banco, redes sociales y plataformas educativas.
+
+Usa una contraseña diferente para cada servicio importante:
+
+- Correo principal.
+- Banco.
+- Red social principal.
+- Plataforma educativa.
+- Aplicaciones de pago.
+- Almacenamiento en la nube.
+
+4. GESTOR DE CONTRASEÑAS
+
+Un gestor permite guardar claves diferentes para cada servicio sin memorizarlas
+todas. Puede ayudarte a crear contraseñas largas y únicas, detectar claves
+débiles, identificar contraseñas expuestas y autocompletar en sitios legítimos.
+
+No guardes contraseñas en notas visibles del celular, chats de WhatsApp, fotos,
+documentos sin protección o libretas expuestas.
+
+5. DOBLE FACTOR MFA/2FA
+
+El doble factor agrega una segunda capa de protección. Aunque alguien robe tu
+contraseña, necesitará un segundo elemento para entrar.
+
+Tipos comunes:
+
+- Código por SMS.
+- App autenticadora.
+- Notificación de aprobación.
+- Biometría.
+- Llave física de seguridad.
+- Passkey o clave de acceso.
+
+Activa MFA primero en correo principal, banco, WhatsApp, Instagram/Facebook,
+plataforma educativa y cuenta de nube.
+
+6. PASSKEYS O CLAVES DE ACCESO
+
+Las passkeys permiten iniciar sesión usando el bloqueo del dispositivo: huella,
+reconocimiento facial, PIN o bloqueo del celular. Ayudan a reducir el riesgo de
+phishing porque no se escribe una contraseña en una página falsa.
+
+7. REVISIÓN DE SEGURIDAD DE LA CUENTA
+
+Una cuenta segura necesita opciones de recuperación, actividad revisada y
+dispositivos controlados:
+
+- Correo de recuperación actualizado.
+- Teléfono de recuperación actualizado.
+- Dispositivos conectados reconocidos.
+- MFA activo.
+- Apps conectadas revisadas.
+- Alertas sospechosas revisadas.
+- Contraseñas no repetidas.
+
+8. CORREO ELECTRÓNICO SEGURO
+
+Antes de hacer clic, revisa remitente real, dominio después de @, enlaces
+sospechosos, adjuntos inesperados, lenguaje de urgencia, errores de redacción y
+solicitudes de contraseña, códigos o datos personales.
+
+9. REDES SOCIALES Y PRIVACIDAD
+
+Revisa quién ve tus publicaciones, lista de amigos, número, correo, ubicación en
+tiempo real, solicitudes de desconocidos, apps conectadas y MFA.
+
+10. NAVEGACIÓN SEGURA Y DOMINIOS FALSOS
+
+Una página puede verse muy parecida a la original y ser falsa. Revisa dirección,
+dominio, palabras agregadas, errores mínimos, HTTPS y origen del enlace.
+
+El candado y HTTPS ayudan, pero no son suficientes: también debes confirmar que
+el dominio sea realmente el de la entidad.
+
+11. PERMISOS DE APLICACIONES
+
+Cada app debe solicitar solo los permisos necesarios. Una app de mapas puede
+necesitar ubicación; una app de videollamada puede necesitar cámara y micrófono;
+una app de linterna no debería pedir contactos, ubicación o SMS.
+
+12. MINI RETO PRÁCTICO
+
+Mi cuenta principal en 10 minutos:
+
+1. Revisar correo de recuperación.
+2. Revisar teléfono de recuperación.
+3. Activar o verificar MFA.
+4. Revisar dispositivos conectados.
+5. Revisar apps conectadas.
+6. Cambiar contraseñas repetidas.
+7. Revisar privacidad de la red social principal.
+
+13. GLOSARIO DE CUENTAS SEGURAS
+
+- Contraseña: clave secreta para entrar a una cuenta.
+- Frase de contraseña: contraseña larga formada por varias palabras.
+- MFA/2FA: segunda capa para proteger una cuenta.
+- Código de verificación: número temporal que no debe compartirse.
+- Gestor de contraseñas: herramienta para crear, guardar y organizar claves.
+- Passkey: acceso basado en dispositivo, huella, rostro o PIN.
+- Dominio: nombre principal de una página web.
+- HTTPS: protocolo que cifra la comunicación con un sitio.
+- Phishing: engaño para robar datos mediante mensajes o sitios falsos.
+- Permisos de aplicación: autorizaciones para acceder a funciones del equipo.
+- Cuenta de recuperación: correo o número para recuperar acceso.
+- Sesión activa: acceso abierto en un dispositivo o navegador.
+
+14. RECURSOS EXTERNOS OPCIONALES
+
+- Google Cybersecurity Professional Certificate:
+  https://grow.google/certificates/cybersecurity/
+
+- Foundations of Cybersecurity - Google/Coursera:
+  https://www.coursera.org/learn/foundations-of-cybersecurity
+
+- Google Security Checkup:
+  https://myaccount.google.com/security-checkup
+
+- Google 2-Step Verification:
+  https://support.google.com/accounts/answer/185839?hl=es
+
+- Google Password Manager:
+  https://passwords.google.com/
+
+- NIST SP 800-63B:
+  https://pages.nist.gov/800-63-4/sp800-63b.html
+
+CIERRE
+
+Proteger tus cuentas no es una tarea de una sola vez. Es un hábito. Cada
+contraseña única, cada verificación en dos pasos, cada revisión de privacidad y
+cada decisión de no hacer clic en un enlace sospechoso disminuye el riesgo.
+
+Si una cuenta es importante para tu vida, merece una protección fuerte.
+

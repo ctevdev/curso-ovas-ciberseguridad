@@ -1,0 +1,206 @@
+MATERIAL DE AYUDA Y AMPLIACIÓN PARA LA OVA 3
+Seguridad en Dispositivos, Redes WiFi, Nube y Copias de Seguridad
+
+Sección complementaria:
+“Aprende más: protege tus dispositivos y recupera tu información antes de perderla”
+
+Propósito
+Ampliar los conceptos de protección de dispositivos, redes WiFi, nube, privacidad y copias de seguridad con lenguaje ciudadano, ejemplos cotidianos y recomendaciones aplicables de inmediato.
+
+Idea central
+No basta con evitar fraudes. También hay que preparar los dispositivos para resistir fallas, pérdidas, robos, infecciones y errores humanos.
+
+1. Tu celular es más que un teléfono
+Tu celular puede funcionar como billetera, cámara, agenda, oficina, memoria familiar y llave de acceso a muchas cuentas. Puede contener aplicaciones bancarias, correos, fotos, conversaciones privadas, documentos, redes sociales, códigos de doble factor, contactos, archivos descargados y datos de ubicación.
+
+Pregunta de reflexión:
+¿Qué podría pasar si alguien encuentra tu celular desbloqueado?
+Respuesta: podría ver fotos y conversaciones, intentar acceder a redes o correo, revisar apps bancarias o códigos recibidos. Todas las anteriores.
+
+2. Bloqueo de pantalla y tiempo de inactividad
+Para celular:
+- Activar PIN, patrón, huella o reconocimiento facial.
+- Configurar bloqueo automático en máximo 1 minuto.
+- No compartir el PIN.
+- Evitar patrones simples y fechas de nacimiento.
+- Activar localización o borrado remoto cuando esté disponible.
+
+Para computador:
+- Usar contraseña de inicio de sesión.
+- Configurar bloqueo automático por inactividad.
+- Bloquear manualmente al alejarse.
+- No dejar sesiones abiertas en equipos compartidos.
+
+Mensaje clave:
+Si el dispositivo se pierde, el bloqueo de pantalla es la primera barrera entre tu información y un desconocido.
+
+3. Actualizaciones: cerrar puertas abiertas
+Las actualizaciones corrigen fallas de seguridad. Se deben actualizar sistema operativo, navegador, apps bancarias, mensajería, antivirus, router y aplicaciones de estudio o trabajo.
+
+Acción segura:
+Activar actualizaciones automáticas cuando sea posible y evitar aplicaciones que llevan mucho tiempo sin actualizarse.
+
+4. Antivirus y protección contra malware
+El antivirus ayuda a detectar programas maliciosos, archivos peligrosos y comportamientos sospechosos, pero no reemplaza el criterio personal.
+
+Buenas prácticas:
+- Mantener protección activa.
+- No desactivar el antivirus para instalar software desconocido.
+- Descargar apps desde tiendas oficiales.
+- No abrir archivos inesperados.
+- Evitar programas piratas.
+- Revisar permisos antes de instalar.
+- No conectar USB desconocidas.
+
+5. USB desconocidas y puertos públicos
+Una memoria USB encontrada puede estar infectada. Un puerto USB público puede transferir datos o instalar software malicioso.
+
+Recomendaciones:
+- No conectar USB desconocidas.
+- Usar cargador propio conectado a toma eléctrica.
+- Evitar cargar en puertos USB públicos.
+- Usar cable solo de carga si se requiere.
+- No aceptar “confiar en este dispositivo” en equipos desconocidos.
+
+6. WiFi de casa, datos móviles y WiFi pública
+WiFi de casa:
+- Cambiar clave predeterminada del router.
+- Usar WPA2 o WPA3.
+- Evitar claves como 12345678 o nombre familiar.
+- Crear red de invitados.
+- Actualizar el router cuando sea posible.
+
+Datos móviles:
+- Preferirlos para banca, pagos y trámites sensibles.
+- No compartir hotspot con desconocidos.
+- Usar contraseña fuerte para el punto de acceso.
+- Apagar hotspot cuando no se use.
+
+WiFi pública:
+- No hacer pagos ni banca digital.
+- No ingresar contraseñas importantes.
+- No enviar documentos sensibles.
+- Usar VPN si es estrictamente necesario.
+- Desactivar conexión automática.
+
+7. Red WiFi trampa
+Una red WiFi trampa es una red falsa creada para parecer confiable. Puede llamarse CentroComercialGratis, Aeropuerto_Free, Cafeteria_Clientes, Universidad_Invitados o Hotel_WiFi_Free.
+
+Señales de alerta:
+- Red abierta sin contraseña.
+- Nombre genérico.
+- Varias redes parecidas.
+- Solicitud de datos personales innecesarios.
+- Redirección a páginas extrañas.
+
+8. La nube como respaldo, no como magia
+La nube permite guardar archivos en servidores externos para recuperarlos desde distintos dispositivos. Pero no funciona si nunca activas la copia, si no hay espacio o si no verificas sincronización.
+
+Servicios comunes:
+- Google Fotos.
+- Google Drive.
+- iCloud.
+- OneDrive.
+
+Buenas prácticas:
+- Activar copia automática de fotos.
+- Configurar copia solo por WiFi para ahorrar datos.
+- Revisar que la copia se complete.
+- Verificar espacio disponible.
+- Organizar documentos importantes.
+- Proteger la cuenta de nube con contraseña fuerte y MFA.
+
+9. Regla 3-2-1 de copias de seguridad
+La regla 3-2-1 significa:
+- 3 copias de tus datos importantes.
+- 2 medios diferentes.
+- 1 copia fuera de casa, por ejemplo en la nube.
+
+Ejemplo para fotos:
+1. Fotos en el celular.
+2. Copia en Google Fotos o iCloud.
+3. Copia adicional en disco externo o computador.
+
+Ejemplo para documentos:
+1. Documento en el computador.
+2. Copia en Google Drive, OneDrive o iCloud.
+3. Copia en USB o disco externo guardada en lugar seguro.
+
+10. Privacidad digital y rastros invisibles
+Rastros comunes:
+- Ubicación en fotos.
+- Historial de búsqueda.
+- Permisos de cámara, micrófono y ubicación.
+- Publicaciones con rutinas familiares.
+- Fotos de documentos.
+- Ubicación en tiempo real.
+- Cuentas abandonadas.
+- Apps que ya no usamos.
+
+Acción segura:
+Revisar permisos, desactivar ubicación cuando no sea necesaria, evitar publicar rutinas, eliminar apps abandonadas y no compartir documentos por chats no protegidos.
+
+11. Mini reto práctico
+“Mi dispositivo seguro en 10 minutos”
+
+Acciones sugeridas:
+1. Revisar bloqueo del celular.
+2. Configurar bloqueo automático.
+3. Verificar actualizaciones.
+4. Revisar permisos de tres apps.
+5. Activar copia automática de fotos por WiFi.
+6. Revisar documentos importantes en la nube.
+7. Verificar WPA2 o WPA3 en la red de casa.
+8. Cambiar clave del router si es predeterminada.
+9. Eliminar una app que ya no se usa.
+10. Verificar recuperación de un archivo respaldado.
+
+12. Guía rápida para activar copia de seguridad
+Android con Google Fotos:
+1. Abrir Google Fotos.
+2. Tocar foto de perfil.
+3. Entrar a configuración de Fotos.
+4. Seleccionar copia de seguridad.
+5. Activar copia de seguridad.
+6. Elegir copia solo por WiFi si se desea ahorrar datos.
+7. Verificar estado de copia completada.
+
+iPhone con iCloud:
+1. Ir a Ajustes.
+2. Tocar el nombre de usuario.
+3. Entrar a iCloud.
+4. Seleccionar Fotos.
+5. Activar Fotos en iCloud.
+6. Revisar espacio disponible.
+7. Verificar sincronización.
+
+13. Glosario básico
+- Dispositivo: equipo físico como celular, computador, tablet o router.
+- Bloqueo automático: función que bloquea la pantalla después de cierto tiempo sin uso.
+- Malware: software malicioso que puede dañar, robar o espiar información.
+- Antivirus: herramienta que ayuda a detectar y bloquear amenazas.
+- Actualización: mejora de software que puede corregir fallas y vulnerabilidades.
+- WiFi pública: red disponible para muchas personas, normalmente menos confiable.
+- WiFi trampa: red falsa creada para engañar usuarios.
+- VPN: herramienta que cifra la conexión y ayuda en redes no confiables.
+- Nube: servicio para almacenar archivos en servidores externos.
+- Copia de seguridad: respaldo de información importante.
+- Regla 3-2-1: tres copias, dos medios diferentes y una copia fuera de casa.
+- Metadatos: información adicional incluida en archivos, como ubicación o fecha.
+- Permisos de aplicación: accesos que una app solicita para cámara, micrófono, contactos, ubicación u otros datos.
+- Borrado seguro: proceso para eliminar información antes de vender o entregar un dispositivo.
+
+14. Recursos externos opcionales
+Estos recursos requieren internet y no son necesarios para aprobar el SCORM:
+- Google Cybersecurity Certificate: https://grow.google/certificates/cybersecurity/
+- Assets, Threats, and Vulnerabilities: https://www.coursera.org/learn/assets-threats-and-vulnerabilities
+- Google Photos - Copia de seguridad: https://support.google.com/photos/answer/6193313?hl=es
+- Google Security Checkup: https://myaccount.google.com/security-checkup
+- CISA Secure Our World: https://www.cisa.gov/secure-our-world
+- CISA - Protecting Data Stored on Your Devices: https://www.cisa.gov/news-events/news/protecting-data-stored-your-devices
+- INCIBE - WiFi seguro: https://www.incibe.es/ciudadania/blog/protege-tu-router-y-wifi-de-intrusos
+- Apple Privacy: https://www.apple.com/privacy/
+- CAI Virtual Policía Nacional de Colombia: https://caivirtual.policia.gov.co/
+
+Cierre
+Tus dispositivos guardan una parte importante de tu vida. Protegerlos no requiere ser experto, sino aplicar hábitos básicos de forma constante: bloquear, actualizar, evitar redes públicas para actividades sensibles, activar copias, revisar permisos y cuidar la privacidad antes de compartir información.

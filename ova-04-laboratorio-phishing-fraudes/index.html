@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OVA SCORM 1.2 tipo laboratorio sobre phishing, fraudes y mensajes sospechosos">
+  <title>OVA 4 | Laboratorio de Phishing y Fraudes</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido principal</a>
+  <header class="topbar">
+    <div class="brand-block">
+      <div class="course-mark" aria-hidden="true">⚠</div>
+      <div>
+        <p class="eyebrow">Curso interactivo de ciberseguridad</p>
+        <h1>OVA 4 · Laboratorio de phishing y fraudes</h1>
+      </div>
+    </div>
+    <img class="institution-logo" src="assets/logo-unicartagena-ctev.png" alt="Logo Universidad de Cartagena y CTEV">
+    <div class="score-chip" aria-live="polite">Puntaje: <strong id="score">0</strong>/100</div>
+  </header>
+
+  <div class="progress-shell" aria-label="Progreso de la OVA">
+    <div class="progress-meta">
+      <span id="step-label">Pantalla 1 de 14</span>
+      <span id="progress-label">7 %</span>
+    </div>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <button id="help-button" class="help-button" type="button" aria-haspopup="dialog">Ayuda antifraude</button>
+
+  <footer class="site-footer">
+    <p>Antes de hacer clic, responder, descargar, pagar o entregar datos: pausa y verifica.</p>
+    <button id="reset-button" class="button button-ghost" type="button">Reiniciar OVA</button>
+  </footer>
+
+  <div id="help-panel" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="dialog-card help-card">
+      <div class="dialog-heading">
+        <h2 id="help-title">Ayuda antifraude</h2>
+        <button id="close-help" class="button button-ghost" type="button" aria-label="Cerrar ayuda">Cerrar</button>
+      </div>
+      <div class="help-tabs">
+        <details open>
+          <summary>Señales de alerta</summary>
+          <p>Urgencia extrema, amenaza de bloqueo, premio no solicitado, enlace extraño, adjunto inesperado, pago inmediato, perfil nuevo, dominio parecido pero no igual y presión para actuar sin consultar.</p>
+        </details>
+        <details>
+          <summary>Cómo verificar</summary>
+          <p>No uses el enlace recibido. Abre la app oficial, escribe la dirección manualmente, llama al número oficial, confirma con la persona por otro canal o consulta al área de TI.</p>
+        </details>
+        <details>
+          <summary>Protocolo STOP</summary>
+          <p><strong>STOP:</strong> para. <strong>DESCONECTA:</strong> bloquea movimientos o corta conexión. <strong>CAMBIA:</strong> modifica contraseñas desde un equipo seguro. <strong>REPORTA:</strong> informa a la entidad. <strong>DOCUMENTA:</strong> guarda evidencias.</p>
+        </details>
+        <details>
+          <summary>Glosario rápido</summary>
+          <p><strong>Smishing:</strong> phishing por SMS. <strong>Vishing:</strong> fraude por llamada. <strong>Quishing:</strong> fraude mediante QR. <strong>Token:</strong> código temporal. <strong>Suplantación:</strong> hacerse pasar por otra persona o entidad.</p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div id="confirm-dialog" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <h2 id="dialog-title">¿Reiniciar la OVA?</h2>
+      <p>Se borrarán el progreso, las respuestas y el puntaje de este intento.</p>
+      <div class="button-row">
+        <button id="cancel-reset" class="button button-secondary" type="button">Cancelar</button>
+        <button id="confirm-reset" class="button button-danger" type="button">Sí, reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript>Esta OVA necesita JavaScript habilitado para funcionar.</noscript>
+  <script src="js/scorm-api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

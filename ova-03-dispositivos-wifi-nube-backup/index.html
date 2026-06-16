@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OVA SCORM 1.2 sobre seguridad en dispositivos, redes WiFi, nube y copias de seguridad">
+  <title>OVA 3 | Seguridad en Dispositivos, WiFi, Nube y Backup</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido principal</a>
+  <header class="topbar">
+    <div class="brand-block">
+      <div class="course-mark" aria-hidden="true">📱</div>
+      <div>
+        <p class="eyebrow">Curso interactivo de ciberseguridad</p>
+        <h1>OVA 3 · Dispositivos, WiFi, nube y copias</h1>
+      </div>
+    </div>
+    <img class="institution-logo" src="assets/logo-unicartagena-ctev.png" alt="Logo Universidad de Cartagena y CTEV">
+    <div class="score-chip" aria-live="polite">Puntaje: <strong id="score">0</strong>/100</div>
+  </header>
+
+  <div class="progress-shell" aria-label="Progreso de la OVA">
+    <div class="progress-meta">
+      <span id="step-label">Pantalla 1 de 13</span>
+      <span id="progress-label">8 %</span>
+    </div>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <button id="help-button" class="help-button" type="button" aria-haspopup="dialog">Ayuda de dispositivos y respaldos</button>
+
+  <footer class="site-footer">
+    <p>Perder un dispositivo no debería significar perder tu información.</p>
+    <button id="reset-button" class="button button-ghost" type="button">Reiniciar OVA</button>
+  </footer>
+
+  <div id="help-panel" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="dialog-card help-card">
+      <div class="dialog-heading">
+        <h2 id="help-title">Ayuda de dispositivos y respaldos</h2>
+        <button id="close-help" class="button button-ghost" type="button" aria-label="Cerrar ayuda">Cerrar</button>
+      </div>
+      <div class="help-tabs">
+        <details open>
+          <summary>Dispositivos</summary>
+          <p>Activa PIN, patrón, huella o reconocimiento facial. Configura bloqueo automático, instala actualizaciones y evita USB desconocidas o programas piratas.</p>
+          <p>Antes de vender o entregar un equipo, elimina cuentas asociadas y realiza restablecimiento de fábrica.</p>
+        </details>
+        <details>
+          <summary>WiFi y red</summary>
+          <p>Para banca y pagos, prefiere datos móviles propios o una red de confianza. En casa, cambia la clave del router, usa WPA2/WPA3 y crea red de invitados.</p>
+          <p>Desactiva la conexión automática a redes públicas y evita redes abiertas con nombres genéricos como “Gratis” o “Free WiFi”.</p>
+        </details>
+        <details>
+          <summary>Nube y respaldos</summary>
+          <p>La regla 3-2-1 significa tres copias, dos medios diferentes y una copia fuera de casa. La nube ayuda, pero debes verificar que la sincronización realmente se complete.</p>
+          <p>Activa copia automática de fotos por WiFi y prueba recuperar al menos un archivo.</p>
+        </details>
+        <details>
+          <summary>Privacidad y glosario</summary>
+          <p>Revisa permisos de cámara, micrófono, contactos, ubicación y archivos. Elimina apps y cuentas que ya no usas.</p>
+          <p><strong>WiFi trampa:</strong> red falsa creada para parecer confiable. <strong>Metadatos:</strong> información adicional en archivos, como ubicación o fecha.</p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div id="confirm-dialog" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <h2 id="dialog-title">¿Reiniciar la OVA?</h2>
+      <p>Se borrarán el progreso, las respuestas y el puntaje de este intento.</p>
+      <div class="button-row">
+        <button id="cancel-reset" class="button button-secondary" type="button">Cancelar</button>
+        <button id="confirm-reset" class="button button-danger" type="button">Sí, reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript>Esta OVA necesita JavaScript habilitado para funcionar.</noscript>
+  <script src="js/scorm-api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

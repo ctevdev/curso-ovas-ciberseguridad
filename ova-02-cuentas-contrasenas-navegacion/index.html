@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OVA SCORM 1.2 sobre protección de cuentas, contraseñas, correo, redes sociales y navegación">
+  <title>OVA 2 | Cuentas, Contraseñas y Navegación</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#app">Saltar al contenido principal</a>
+  <header class="topbar">
+    <div class="brand-block">
+      <div class="course-mark" aria-hidden="true">🔑</div>
+      <div>
+        <p class="eyebrow">Curso interactivo de ciberseguridad</p>
+        <h1>OVA 2 · Cuentas, contraseñas y navegación</h1>
+      </div>
+    </div>
+    <img class="institution-logo" src="assets/logo-unicartagena-ctev.png" alt="Logo Universidad de Cartagena y CTEV">
+    <div class="score-chip" aria-live="polite">Puntaje: <strong id="score">0</strong>/100</div>
+  </header>
+
+  <div class="progress-shell" aria-label="Progreso de la OVA">
+    <div class="progress-meta">
+      <span id="step-label">Pantalla 1 de 12</span>
+      <span id="progress-label">8 %</span>
+    </div>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+  </div>
+
+  <main id="app" tabindex="-1"></main>
+
+  <button id="help-button" class="help-button" type="button" aria-haspopup="dialog">Ayuda para proteger mis cuentas</button>
+
+  <footer class="site-footer">
+    <p>Una cuenta protegida es una puerta cerrada para muchos fraudes.</p>
+    <button id="reset-button" class="button button-ghost" type="button">Reiniciar OVA</button>
+  </footer>
+
+  <div id="help-panel" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="help-title">
+    <div class="dialog-card help-card">
+      <div class="dialog-heading">
+        <h2 id="help-title">Ayuda para proteger mis cuentas</h2>
+        <button id="close-help" class="button button-ghost" type="button" aria-label="Cerrar ayuda">Cerrar</button>
+      </div>
+      <div class="help-tabs">
+        <details open>
+          <summary>Contraseñas</summary>
+          <p>Usa frases largas, únicas y sin datos personales. Evita nombres, fechas, mascotas, cédula, secuencias como 123456 o la misma clave en varias cuentas.</p>
+          <p>Ejemplo educativo: <strong>CafeLunaRioZapato#2026</strong>. No uses este ejemplo como contraseña real.</p>
+        </details>
+        <details>
+          <summary>Doble factor</summary>
+          <p>Activa MFA primero en correo principal, banco, WhatsApp, redes sociales, plataforma educativa y nube. Nunca compartas códigos de verificación.</p>
+          <p>Cuando esté disponible, considera passkeys o llaves de seguridad porque reducen el riesgo de phishing.</p>
+        </details>
+        <details>
+          <summary>Correo y redes sociales</summary>
+          <p>Revisa remitente, dominio, enlaces, adjuntos, tono urgente y solicitudes de datos. En redes, limita quién ve publicaciones, amigos, número, ubicación y datos familiares.</p>
+        </details>
+        <details>
+          <summary>Navegación segura</summary>
+          <p>HTTPS y candado ayudan, pero no bastan. Revisa el dominio real antes de ingresar usuario, contraseña o datos bancarios. Desconfía de palabras agregadas o dominios raros.</p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <div id="confirm-dialog" class="dialog-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <div class="dialog-card">
+      <h2 id="dialog-title">¿Reiniciar la OVA?</h2>
+      <p>Se borrarán el progreso, las respuestas y el puntaje de este intento.</p>
+      <div class="button-row">
+        <button id="cancel-reset" class="button button-secondary" type="button">Cancelar</button>
+        <button id="confirm-reset" class="button button-danger" type="button">Sí, reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript>Esta OVA necesita JavaScript habilitado para funcionar.</noscript>
+  <script src="js/scorm-api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
+
