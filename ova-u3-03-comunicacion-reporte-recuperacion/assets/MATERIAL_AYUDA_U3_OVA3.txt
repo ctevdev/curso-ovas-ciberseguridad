@@ -1,0 +1,483 @@
+## Material de ayuda y ampliación para la OVA 3 — Unidad 3
+
+### Comunicación, reporte, recuperación y aprendizaje posterior al incidente
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: comunicar, recuperar y aprender”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para fortalecer su capacidad de respuesta posterior a un incidente digital.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que después de detectar un incidente no basta con recuperar una cuenta o borrar un mensaje. También es necesario comunicar con claridad, reportar por canales correctos, proteger a terceros afectados, revisar configuraciones y aprender para evitar que vuelva a ocurrir.
+
+La OVA debe reforzar la siguiente idea:
+
+**La recuperación no termina cuando vuelves a entrar a la cuenta. Termina cuando corriges la causa, avisas a quien corresponde y reduces la posibilidad de reincidencia.**
+
+---
+
+## Bloque 1: Comunicar sin exponer
+
+Texto para mostrar al estudiante:
+
+Comunicar un incidente no significa contar todos los detalles ni compartir información privada. Significa informar lo necesario para que otras personas o entidades puedan actuar.
+
+Una comunicación segura debe:
+
+* Ser clara.
+* Ser breve.
+* Explicar qué ocurrió.
+* Indicar qué cuenta, servicio o canal fue afectado.
+* Decir qué acción se solicita.
+* Evitar contraseñas, códigos, PIN, CVV o datos bancarios.
+* Usar canales oficiales o confiables.
+* Evitar acusaciones sin evidencia.
+
+Ejemplo seguro:
+
+“Mi cuenta de red social fue comprometida. Si recibiste mensajes recientes solicitando dinero o enlaces, no respondas ni realices pagos. Estoy reportando el caso y recuperando el acceso.”
+
+---
+
+## Bloque 2: Comunicar, reportar, denunciar y alertar
+
+### Comunicar
+
+Informar a alguien que necesita saber lo ocurrido.
+
+Ejemplo:
+Avisar a un familiar, cliente, docente, jefe o equipo de soporte.
+
+### Reportar
+
+Informar formalmente a una plataforma, banco, soporte o área institucional.
+
+Ejemplo:
+Reportar una cuenta tomada a la plataforma correspondiente.
+
+### Denunciar
+
+Poner en conocimiento de una autoridad un hecho que puede constituir delito.
+
+Ejemplo:
+Fraude económico, extorsión, suplantación o amenaza.
+
+### Alertar
+
+Advertir rápidamente a personas que podrían verse afectadas.
+
+Ejemplo:
+Avisar a contactos que no respondan mensajes enviados desde una cuenta comprometida.
+
+Mensaje clave:
+
+No todos los casos requieren el mismo canal, pero todos requieren claridad.
+
+---
+
+## Bloque 3: Cómo redactar un reporte claro
+
+Un reporte básico debe incluir:
+
+1. Tipo de incidente.
+2. Activo afectado.
+3. Fecha y hora aproximada.
+4. Qué ocurrió.
+5. Evidencias disponibles.
+6. Acciones realizadas.
+7. Estado actual.
+8. Qué apoyo se solicita.
+
+Plantilla:
+
+“Fecha y hora aproximada: ________
+Tipo de incidente: ________
+Activo afectado: ________
+Descripción breve: ________
+Evidencias disponibles: ________
+Acciones realizadas: ________
+Estado actual: ________
+Apoyo solicitado: ________”
+
+Ejemplo:
+
+“El 15 de junio a las 8:30 p. m. detecté que mi cuenta de Instagram publicó promociones que no realicé. Tengo capturas de las publicaciones y mensajes recibidos por clientes. Cambié contraseñas relacionadas desde otro dispositivo y solicito apoyo para recuperar y asegurar la cuenta.”
+
+---
+
+## Bloque 4: Canales según tipo de incidente
+
+### Fraude financiero
+
+Canales:
+
+* Banco.
+* Billetera digital.
+* Línea antifraude.
+* Autoridad competente si aplica.
+
+Acciones:
+
+* Bloquear tarjeta o cuenta.
+* Desconocer movimiento.
+* Guardar comprobantes.
+* Reportar número o enlace sospechoso.
+
+---
+
+### Cuenta de correo comprometida
+
+Canales:
+
+* Proveedor de correo.
+* Área de TI si es correo institucional.
+* Contactos afectados si hubo mensajes enviados.
+
+Acciones:
+
+* Cambiar contraseña.
+* Activar MFA.
+* Cerrar sesiones.
+* Revisar recuperación.
+* Revisar reglas de reenvío.
+
+---
+
+### Red social tomada
+
+Canales:
+
+* Plataforma.
+* Contactos afectados.
+* Clientes si es cuenta comercial.
+* Autoridad si hubo fraude o suplantación con daño.
+
+Acciones:
+
+* Recuperar acceso.
+* Activar MFA.
+* Avisar por otro canal.
+* Revisar publicaciones y mensajes.
+
+---
+
+### Dispositivo perdido o robado
+
+Canales:
+
+* Operador móvil.
+* Banco.
+* Plataformas críticas.
+* Autoridad si aplica.
+
+Acciones:
+
+* Bloquear SIM.
+* Cerrar sesiones.
+* Usar localización o borrado remoto.
+* Cambiar contraseñas críticas.
+
+---
+
+### Malware o archivo sospechoso
+
+Canales:
+
+* Área de TI.
+* Soporte técnico confiable.
+* Responsable institucional si es equipo académico o laboral.
+
+Acciones:
+
+* Desconectar de internet.
+* No abrir más archivos.
+* No instalar herramientas desconocidas.
+* Conservar información relevante.
+
+---
+
+## Bloque 5: Recuperación segura de cuentas
+
+Texto:
+
+Recuperar una cuenta implica más que cambiar la contraseña. Un atacante puede haber dejado sesiones abiertas, reglas de reenvío, aplicaciones conectadas o cambios en datos de recuperación.
+
+Checklist de recuperación:
+
+* Cambiar contraseña desde dispositivo seguro.
+* Activar MFA.
+* Cerrar sesiones desconocidas.
+* Revisar dispositivos conectados.
+* Revisar correo y teléfono de recuperación.
+* Revisar reglas de reenvío.
+* Revisar apps conectadas.
+* Revisar permisos de archivos compartidos.
+* Revisar publicaciones o mensajes enviados.
+* Avisar a contactos afectados.
+* Verificar movimientos financieros si aplica.
+* Guardar evidencias y acciones realizadas.
+
+Mensaje clave:
+
+Si recuperas acceso, revisa si quedaron puertas abiertas.
+
+---
+
+## Bloque 6: Aviso a contactos afectados
+
+Texto:
+
+Si tus contactos, clientes, familiares o compañeros pudieron recibir mensajes falsos desde tu cuenta, debes avisarles por un canal alterno.
+
+Un buen aviso debe:
+
+* Confirmar que la cuenta estuvo comprometida.
+* Pedir que no respondan mensajes recientes.
+* Pedir que no hagan pagos ni abran enlaces.
+* Indicar que el caso está siendo reportado.
+* Solicitar que informen si recibieron mensajes sospechosos.
+* Evitar contraseñas, códigos o datos privados.
+
+Ejemplo:
+
+“Hola. Mi cuenta fue comprometida. Si recibiste mensajes recientes pidiendo dinero, códigos o enlaces, no respondas ni realices pagos. Estoy reportando el caso. Gracias por avisarme si recibiste algo extraño.”
+
+---
+
+## Bloque 7: Lecciones aprendidas
+
+Texto:
+
+Después de controlar un incidente, se deben registrar aprendizajes. Esto permite mejorar hábitos y controles.
+
+Preguntas útiles:
+
+1. ¿Qué activo fue afectado?
+2. ¿Qué amenaza se presentó?
+3. ¿Qué vulnerabilidad permitió el incidente?
+4. ¿Qué impacto tuvo?
+5. ¿Qué evidencia fue útil?
+6. ¿Qué acción funcionó?
+7. ¿Qué faltó hacer?
+8. ¿Qué control debe aplicarse?
+9. ¿Quién debe conocer la lección?
+10. ¿Cuándo se revisará nuevamente?
+
+Ejemplo:
+
+Activo afectado:
+Red social de negocio.
+
+Vulnerabilidad:
+Sin MFA.
+
+Control:
+Activar MFA y revisar recuperación.
+
+Lección:
+No ingresar credenciales desde enlaces recibidos por mensajes.
+
+Acción:
+Configurar MFA hoy y capacitar al equipo esta semana.
+
+---
+
+## Bloque 8: Errores frecuentes
+
+Mostrar tarjetas de alerta:
+
+1. Reportar con demasiada información sensible.
+   Corrección:
+   Describir el hecho sin incluir claves, códigos ni datos bancarios.
+
+2. Avisar desde la cuenta comprometida.
+   Corrección:
+   Usar otro canal confiable.
+
+3. Recuperar la cuenta y no revisar sesiones.
+   Corrección:
+   Cerrar sesiones desconocidas y revisar dispositivos.
+
+4. No avisar a contactos afectados.
+   Corrección:
+   Alertar para evitar que otros caigan.
+
+5. No registrar acciones realizadas.
+   Corrección:
+   Anotar qué se hizo y cuándo.
+
+6. No corregir la vulnerabilidad.
+   Corrección:
+   Aplicar controles para evitar repetición.
+
+7. No programar revisión posterior.
+   Corrección:
+   Revisar la cuenta días después.
+
+---
+
+## Bloque 9: Mini actividad de ampliación
+
+### “¿Lo digo o no lo digo?”
+
+Instrucción:
+Clasifica qué información puede incluirse en una comunicación segura.
+
+1. Fecha aproximada del incidente.
+   Respuesta:
+   Sí puede incluirse.
+
+2. Contraseña de la cuenta.
+   Respuesta:
+   No debe incluirse.
+
+3. Tipo de cuenta afectada.
+   Respuesta:
+   Sí puede incluirse.
+
+4. Código SMS recibido.
+   Respuesta:
+   No debe incluirse.
+
+5. URL sospechosa.
+   Respuesta:
+   Sí puede incluirse si se comparte con soporte o canal autorizado.
+
+6. PIN bancario.
+   Respuesta:
+   No debe incluirse.
+
+7. Acciones realizadas.
+   Respuesta:
+   Sí puede incluirse.
+
+8. CVV de tarjeta.
+   Respuesta:
+   No debe incluirse.
+
+Retroalimentación:
+Una comunicación segura informa sin exponer secretos.
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “Elige el mejor canal”
+
+Situación 1:
+Transferencia no reconocida.
+
+Canal:
+Banco o billetera digital.
+
+Situación 2:
+Cuenta institucional tomada.
+
+Canal:
+Área de TI o soporte institucional.
+
+Situación 3:
+Clientes reciben mensajes falsos desde cuenta del negocio.
+
+Canal:
+Clientes por canal alterno y plataforma afectada.
+
+Situación 4:
+Celular robado.
+
+Canal:
+Operador móvil, banco, plataformas críticas y autoridad si aplica.
+
+Situación 5:
+Malware en equipo de trabajo.
+
+Canal:
+Área de TI o soporte autorizado.
+
+---
+
+## Bloque 11: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de comunicación y recuperación”**
+
+Términos:
+
+* Comunicar: informar de manera clara a quien necesita conocer el hecho.
+* Reportar: informar formalmente a una plataforma, banco o soporte.
+* Denunciar: poner un hecho en conocimiento de una autoridad.
+* Alertar: advertir rápidamente a posibles afectados.
+* Recuperación: proceso para restablecer acceso y funcionamiento seguro.
+* Canal oficial: medio reconocido por la entidad o plataforma.
+* Contacto afectado: persona que pudo recibir mensajes falsos o verse impactada.
+* MFA: doble factor de autenticación.
+* Sesión activa: acceso abierto en un dispositivo o navegador.
+* Reenvío automático: regla que envía correos a otra cuenta.
+* App conectada: aplicación externa con permisos sobre una cuenta.
+* Lección aprendida: conclusión que permite mejorar después del incidente.
+* Control correctivo: acción aplicada para recuperarse después de un incidente.
+* Reincidencia: repetición de un problema por no corregir su causa.
+* Comunicación segura: mensaje claro que no expone datos sensibles.
+
+---
+
+## Bloque 12: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en ciberseguridad, detección, respuesta, riesgos y herramientas.
+
+2. Sound the Alarm: Detection and Response
+   Curso recomendado para ampliar conceptos sobre detección, respuesta y recuperación.
+
+3. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de identificar, proteger, detectar, responder y recuperar.
+
+4. CISA Incident Response
+   Recurso para ampliar conocimientos sobre respuesta y recuperación ante incidentes.
+
+5. Google Security Checkup
+   Herramienta práctica para revisar actividad sospechosa, dispositivos conectados y seguridad de cuenta.
+
+6. INCIBE — Respuesta ante incidentes
+   Recurso en español sobre acciones ante incidentes digitales.
+
+7. Centro Cibernético Policial
+   Canal colombiano para reportar fraudes y delitos digitales.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 13: Cierre de ayuda
+
+Texto de cierre:
+
+Comunicar y recuperar bien reduce el impacto de un incidente. También ayuda a que otras personas no caigan en el mismo engaño.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Comunicar sin exponer secretos.
+2. Reportar por canales oficiales.
+3. Alertar a contactos afectados.
+4. Recuperar cuentas revisando configuraciones.
+5. Cerrar sesiones desconocidas.
+6. Activar MFA.
+7. Documentar acciones realizadas.
+8. Registrar lecciones aprendidas.
+9. Programar una revisión posterior.
+
+Recuerda:
+
+**Un incidente bien comunicado se atiende mejor. Un incidente bien aprendido fortalece tu defensa digital.**
