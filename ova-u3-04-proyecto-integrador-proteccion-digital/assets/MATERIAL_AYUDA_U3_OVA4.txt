@@ -1,0 +1,423 @@
+## Material de ayuda y ampliación para la OVA 4 — Unidad 3
+
+### Proyecto integrador de protección digital
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: construir un informe de protección digital”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante durante la construcción del informe final.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a integrar los aprendizajes de la Unidad 3 en un producto aplicado.
+
+El informe final no debe ser un documento largo ni técnico. Debe ser una guía clara que permita entender un caso, organizar evidencias, comunicar de forma segura, recuperar y mejorar.
+
+La OVA debe reforzar la siguiente idea:
+
+**Un buen informe de protección digital no expone secretos. Organiza hechos, evidencias, acciones y mejoras.**
+
+---
+
+## Bloque 1: Qué debe contener un informe de protección digital
+
+Un informe básico debe incluir:
+
+1. Caso analizado.
+2. Activos afectados.
+3. Señales observadas.
+4. Evidencias útiles.
+5. Línea de tiempo.
+6. Tipo de incidente.
+7. Amenaza probable.
+8. Vulnerabilidad probable.
+9. Impacto posible.
+10. Reporte seguro.
+11. Acciones de recuperación.
+12. Lecciones aprendidas.
+13. Plan de mejora.
+
+Mensaje:
+
+El informe debe permitir que otra persona entienda el caso sin necesidad de conocer todos los detalles privados.
+
+---
+
+## Bloque 2: Cómo separar hechos, evidencias y conclusiones
+
+### Hecho
+
+Algo que ocurrió y puede describirse.
+
+Ejemplo:
+“Se recibió un mensaje con enlace el lunes a las 8:10 p. m.”
+
+### Evidencia
+
+Elemento que apoya el hecho.
+
+Ejemplo:
+“Captura del mensaje y URL recibida.”
+
+### Conclusión inicial
+
+Interpretación basada en los hechos y evidencias.
+
+Ejemplo:
+“El caso corresponde a phishing probable porque el mensaje usó urgencia, enlace sospechoso y solicitud de credenciales.”
+
+Regla:
+
+No presentes una sospecha como si fuera un hecho confirmado.
+
+---
+
+## Bloque 3: Cómo redactar sin datos sensibles
+
+Un informe seguro puede incluir:
+
+* Fecha aproximada.
+* Hora aproximada.
+* Tipo de incidente.
+* Activo afectado.
+* Canal por el que llegó el mensaje.
+* URL sospechosa.
+* Remitente o número.
+* Acciones realizadas.
+* Canal de reporte.
+* Lecciones aprendidas.
+
+No debe incluir:
+
+* Contraseñas.
+* Códigos SMS.
+* Tokens.
+* PIN.
+* CVV.
+* Número completo de tarjeta.
+* Documento completo.
+* QR de autenticación.
+* Capturas con datos sensibles visibles.
+
+Mensaje:
+
+Si un dato permite entrar, verificar identidad o mover dinero, no debe estar en el informe.
+
+---
+
+## Bloque 4: Cómo priorizar recuperación
+
+Después de un incidente, no todo se recupera al mismo tiempo.
+
+Prioridad recomendada:
+
+1. Proteger el correo principal.
+2. Bloquear cuentas financieras si hay riesgo.
+3. Recuperar cuenta afectada.
+4. Cerrar sesiones desconocidas.
+5. Activar MFA.
+6. Revisar recuperación de cuenta.
+7. Revisar apps conectadas.
+8. Avisar a contactos afectados.
+9. Revisar archivos o publicaciones.
+10. Registrar acciones y lecciones.
+
+Mensaje:
+
+Primero se detiene el daño. Luego se recupera y se mejora.
+
+---
+
+## Bloque 5: Cómo convertir lecciones en acciones
+
+Una lección aprendida debe convertirse en una acción concreta.
+
+Ejemplo débil:
+
+“Ser más cuidadoso.”
+
+Ejemplo mejor:
+
+“Activar MFA en mi correo principal antes del viernes.”
+
+Ejemplo débil:
+
+“No caer en phishing.”
+
+Ejemplo mejor:
+
+“No ingresar credenciales desde enlaces recibidos por mensajes; entrar siempre por la app oficial.”
+
+Ejemplo débil:
+
+“Mejorar seguridad.”
+
+Ejemplo mejor:
+
+“Cambiar contraseñas repetidas de correo, red social y billetera digital esta semana.”
+
+Regla:
+
+Una acción de mejora debe tener verbo, objeto y fecha.
+
+---
+
+## Bloque 6: Cómo revisar el plan después del incidente
+
+El plan debe revisarse después de unos días.
+
+Preguntas de seguimiento:
+
+1. ¿La cuenta quedó recuperada?
+2. ¿MFA quedó activo?
+3. ¿Se cerraron sesiones desconocidas?
+4. ¿Se revisaron apps conectadas?
+5. ¿Se avisó a contactos afectados?
+6. ¿Se reportó por canal oficial?
+7. ¿Se eliminó la vulnerabilidad?
+8. ¿Se actualizó la matriz de riesgos?
+9. ¿Se revisaron copias de seguridad?
+10. ¿Se programó una nueva revisión?
+
+Frecuencia sugerida:
+
+* Riesgo crítico: revisar en 7 días.
+* Riesgo alto: revisar durante el mes.
+* Riesgo medio: revisar en el trimestre.
+* Riesgo bajo: monitorear.
+
+---
+
+## Bloque 7: Errores frecuentes en el informe final
+
+Mostrar tarjetas:
+
+1. Hacer un informe muy largo y confuso.
+   Corrección:
+   Usar secciones cortas y ordenadas.
+
+2. Incluir contraseñas o códigos.
+   Corrección:
+   Nunca incluir secretos.
+
+3. No ordenar los hechos.
+   Corrección:
+   Construir una línea de tiempo.
+
+4. No separar hechos de sospechas.
+   Corrección:
+   Indicar qué se sabe y qué se presume.
+
+5. No definir acciones de mejora.
+   Corrección:
+   Cada incidente debe dejar acciones concretas.
+
+6. No poner fechas.
+   Corrección:
+   Un plan sin fecha rara vez se cumple.
+
+7. No indicar canal de reporte.
+   Corrección:
+   Registrar a quién se reportó o a quién se debe reportar.
+
+8. No revisar después.
+   Corrección:
+   Programar seguimiento.
+
+---
+
+## Bloque 8: Ejemplo breve de informe
+
+### Caso
+
+Red social de emprendimiento tomada.
+
+### Activos afectados
+
+* Red social.
+* Clientes.
+* Reputación.
+* Cuenta de correo asociada.
+* Pagos digitales.
+
+### Señales
+
+* Mensaje falso de soporte.
+* Enlace sospechoso.
+* Pérdida de acceso.
+* Publicaciones no autorizadas.
+* Clientes reportan solicitudes de transferencia.
+
+### Evidencias
+
+* Captura del mensaje.
+* URL recibida.
+* Captura de publicaciones falsas.
+* Fecha y hora aproximada.
+* Reportes de clientes.
+
+### Línea de tiempo
+
+1. Llegó mensaje falso.
+2. Se abrió enlace.
+3. Se ingresaron credenciales.
+4. Se perdió acceso.
+5. Aparecieron promociones falsas.
+6. Clientes reportaron mensajes.
+7. Se guardaron evidencias.
+8. Se reportó a la plataforma.
+9. Se avisó por canal alterno.
+10. Se activaron controles.
+
+### Reporte seguro
+
+“El día indicado recibí un mensaje que decía ser soporte de la red social. Después de ingresar al enlace, perdí acceso a la cuenta y aparecieron publicaciones no autorizadas solicitando pagos. Cuento con capturas del mensaje, URL y publicaciones. Solicito apoyo para recuperación y bloqueo de actividad fraudulenta.”
+
+### Recuperación
+
+* Cambiar contraseñas relacionadas.
+* Activar MFA.
+* Revisar recuperación.
+* Avisar a clientes.
+* Reportar a la plataforma.
+* Revisar publicaciones.
+* Documentar acciones.
+
+### Mejora
+
+* MFA obligatorio.
+* Contraseñas únicas.
+* Verificación de enlaces.
+* Revisión semanal de alertas.
+* Capacitación a familiares o equipo.
+
+---
+
+## Bloque 9: Mini actividad de ampliación
+
+### “¿Va en el informe?”
+
+Clasifica cada elemento:
+
+1. Fecha aproximada.
+   Respuesta:
+   Sí va.
+
+2. Contraseña.
+   Respuesta:
+   No va.
+
+3. URL sospechosa.
+   Respuesta:
+   Sí va, si se reporta por canal autorizado.
+
+4. Código SMS.
+   Respuesta:
+   No va.
+
+5. Captura del mensaje.
+   Respuesta:
+   Sí va.
+
+6. PIN bancario.
+   Respuesta:
+   No va.
+
+7. Acciones realizadas.
+   Respuesta:
+   Sí va.
+
+8. Plan de mejora.
+   Respuesta:
+   Sí va.
+
+Retroalimentación:
+El informe debe ser útil y seguro al mismo tiempo.
+
+---
+
+## Bloque 10: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario del proyecto integrador”**
+
+Términos:
+
+* Informe de protección digital: documento breve que organiza un caso, evidencias, acciones y mejoras.
+* Activo afectado: cuenta, dispositivo, servicio o información impactada.
+* Señal sospechosa: indicio que requiere revisión.
+* Señal crítica: indicio fuerte de afectación.
+* Evidencia útil: información que ayuda a reportar sin exponer secretos.
+* Dato sensible: información que no debe compartirse.
+* Línea de tiempo: orden cronológico de los hechos.
+* Reporte seguro: comunicación clara sin contraseñas ni códigos.
+* Recuperación: acciones para restablecer acceso y seguridad.
+* Lección aprendida: conclusión que permite mejorar.
+* Plan de mejora: acciones concretas para reducir reincidencia.
+* Reincidencia: repetición del incidente por no corregir la causa.
+* Canal oficial: medio reconocido para reportar o solicitar apoyo.
+* MFA: doble factor de autenticación.
+* Control: acción que reduce un riesgo.
+
+---
+
+## Bloque 11: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en ciberseguridad, detección, respuesta, riesgos y herramientas.
+
+2. Sound the Alarm: Detection and Response
+   Curso recomendado para ampliar conceptos sobre detección, respuesta y recuperación.
+
+3. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de identificar, proteger, detectar, responder y recuperar.
+
+4. CISA Cyber Essentials
+   Guía práctica para fortalecer controles básicos y respuesta.
+
+5. Google Security Checkup
+   Herramienta para revisar actividad sospechosa, dispositivos conectados y seguridad de cuenta.
+
+6. INCIBE — Seguridad para ciudadanos
+   Recurso en español sobre fraudes, incidentes, privacidad y protección digital.
+
+7. Centro Cibernético Policial
+   Canal colombiano para reportar fraudes y delitos digitales.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 12: Cierre de ayuda
+
+Texto de cierre:
+
+El proyecto integrador demuestra que puedes aplicar la ciberseguridad a casos reales de la vida cotidiana.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Analizar incidentes con orden.
+2. Identificar activos afectados.
+3. Clasificar señales.
+4. Seleccionar evidencias útiles.
+5. Evitar datos sensibles.
+6. Construir línea de tiempo.
+7. Reportar con claridad.
+8. Recuperar con seguridad.
+9. Aprender del caso.
+10. Crear acciones de mejora.
+
+Recuerda:
+
+**La defensa digital no termina cuando pasa el incidente. Se fortalece cuando aprendes de él y mejoras tus hábitos.**

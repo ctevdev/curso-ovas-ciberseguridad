@@ -26,6 +26,7 @@ unidad-3/
 - OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
 - OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip
 - OVA-U3-03-comunicacion-reporte-recuperacion-SCORM12.zip
+- OVA-U3-04-proyecto-integrador-proteccion-digital-SCORM12.zip
 
 COMO USAR EN MOODLE
 
@@ -75,3 +76,4 @@ ORDEN RECOMENDADO
 10. OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
 11. OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip
 12. OVA-U3-03-comunicacion-reporte-recuperacion-SCORM12.zip
+13. OVA-U3-04-proyecto-integrador-proteccion-digital-SCORM12.zip

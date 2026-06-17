@@ -25,10 +25,11 @@ UNIDAD 3 - Monitoreo basico y defensa digital aplicada
 1. ova-u3-01-senales-alerta-monitoreo-cuentas
 2. ova-u3-02-analisis-defensivo-evidencias
 3. ova-u3-03-comunicacion-reporte-recuperacion
+4. ova-u3-04-proyecto-integrador-proteccion-digital
 
 Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
 entrega, la Unidad 1 esta completa, la Unidad 2 cuenta con las OVAs 1, 2, 3 y 4
-completas, y la Unidad 3 cuenta con las OVAs 1, 2 y 3 completas.
+completas, y la Unidad 3 cuenta con las OVAs 1, 2, 3 y 4 completas.
 
 IMPORTANTE SOBRE LOS SCORM
 
@@ -69,6 +70,8 @@ un color y simbolo de identificacion:
   linea de tiempo, carpeta segura y resumen de reporte.
 - Unidad 3 OVA 3 - Verde esmeralda/lima - Comunicacion y recuperacion: reporte
   seguro, aviso a contactos, recuperacion y lecciones aprendidas.
+- Unidad 3 OVA 4 - Verde esmeralda/lima - Proyecto integrador: informe final,
+  activos, senales, evidencias, linea de tiempo, recuperacion y mejora.
 
 COMO COMPRIMIR UNA OVA
 
@@ -104,6 +107,7 @@ PAQUETES SCORM GENERADOS
 - OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
 - OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip
 - OVA-U3-03-comunicacion-reporte-recuperacion-SCORM12.zip
+- OVA-U3-04-proyecto-integrador-proteccion-digital-SCORM12.zip
 
 Los mismos paquetes tambien estan separados por unidad en la carpeta:
 outputs/scorm-individuales
@@ -135,6 +139,7 @@ ORDEN RECOMENDADO DE PUBLICACION
     evidencias.
 12. Unidad 3 - Comunicacion, reporte y recuperacion despues de un incidente
     digital.
+13. Unidad 3 - Proyecto integrador de proteccion digital.
 
 VALIDACION DE REPORTES SCORM
 
