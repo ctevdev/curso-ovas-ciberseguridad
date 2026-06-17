@@ -1,0 +1,500 @@
+## Material de ayuda y ampliación para la OVA 1 — Unidad 3
+
+### Señales de alerta, registros básicos y monitoreo de cuentas
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: señales tempranas y monitoreo sin complicarse”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para ampliar su conocimiento y prepararse para las siguientes OVAs de la Unidad 3.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que la detección temprana no depende únicamente de herramientas avanzadas. En muchos casos, una persona puede detectar señales de compromiso revisando alertas, sesiones, dispositivos conectados, actividad reciente y cambios de seguridad.
+
+La OVA debe reforzar la siguiente idea:
+
+**La mayoría de cuentas comprometidas dejan pistas. El problema es que muchas veces no las miramos o no sabemos interpretarlas.**
+
+---
+
+## Bloque 1: Qué es monitoreo básico
+
+Texto para mostrar al estudiante:
+
+Monitorear no significa estar conectado todo el día ni revisar cada detalle técnico. Monitorear significa revisar periódicamente las señales más importantes de tus cuentas y dispositivos.
+
+Ejemplos de monitoreo básico:
+
+* Revisar alertas de inicio de sesión.
+* Ver dispositivos conectados.
+* Cerrar sesiones que ya no usas.
+* Revisar apps conectadas.
+* Verificar cambios de recuperación.
+* Revisar mensajes enviados.
+* Verificar archivos compartidos.
+* Revisar movimientos financieros.
+* Observar comportamientos extraños del dispositivo.
+
+Mensaje clave:
+
+Una revisión de 10 minutos cada semana puede evitar muchos problemas.
+
+---
+
+## Bloque 2: Qué registros puede revisar un usuario
+
+### Historial de inicio de sesión
+
+Sirve para ver cuándo y desde dónde se accedió a una cuenta.
+
+Qué buscar:
+
+* Ubicaciones desconocidas.
+* Navegadores no reconocidos.
+* Horarios extraños.
+* Intentos fallidos repetidos.
+* Accesos desde países o ciudades inesperadas.
+
+---
+
+### Dispositivos conectados
+
+Sirve para saber qué celulares, computadores o navegadores tienen sesión abierta.
+
+Qué buscar:
+
+* Equipos antiguos.
+* Dispositivos que ya no usas.
+* Celulares perdidos.
+* Navegadores desconocidos.
+* Sesiones que no recuerdas haber abierto.
+
+---
+
+### Actividad de seguridad
+
+Sirve para revisar cambios importantes.
+
+Qué buscar:
+
+* Cambio de contraseña.
+* Activación o desactivación de MFA.
+* Cambio de correo de recuperación.
+* Cambio de número telefónico.
+* Solicitudes de recuperación.
+* Códigos enviados sin solicitud.
+
+---
+
+### Apps conectadas
+
+Sirve para ver aplicaciones externas con permiso sobre la cuenta.
+
+Qué buscar:
+
+* Apps que no recuerdas.
+* Apps antiguas.
+* Apps sin uso.
+* Apps con permisos excesivos.
+* Juegos, extensiones o herramientas desconocidas.
+
+---
+
+### Correos enviados y reglas
+
+Sirve para detectar uso indebido del correo.
+
+Qué buscar:
+
+* Correos enviados que no escribiste.
+* Reenvíos automáticos desconocidos.
+* Filtros extraños.
+* Mensajes eliminados automáticamente.
+* Respuestas automáticas no configuradas por ti.
+
+---
+
+### Archivos compartidos
+
+Sirve para revisar documentos en la nube.
+
+Qué buscar:
+
+* Archivos públicos sin necesidad.
+* Carpetas compartidas con desconocidos.
+* Documentos sensibles con acceso amplio.
+* Cambios de permisos no reconocidos.
+
+---
+
+## Bloque 3: Señales tempranas
+
+Texto:
+
+Una señal temprana no siempre confirma un incidente, pero indica que debes revisar.
+
+Ejemplos:
+
+* Recibir códigos de verificación que no pediste.
+* Alerta de inicio de sesión desde otra ciudad.
+* Notificación de cambio de contraseña que no hiciste.
+* Solicitud de recuperación de cuenta.
+* Contacto que pregunta por un mensaje extraño.
+* App que solicita permisos inesperados.
+* Archivo compartido que no recuerdas haber compartido.
+* Dispositivo que aparece conectado y no reconoces.
+* Mensaje de “tu cuenta fue usada en otro dispositivo”.
+
+Acción segura:
+
+No entres en pánico. Revisa, documenta y actúa según la gravedad.
+
+---
+
+## Bloque 4: Indicadores cotidianos de compromiso
+
+Crear tarjetas:
+
+### En cuentas de correo
+
+Indicadores:
+
+* Correos enviados sin autorización.
+* Reglas de reenvío desconocidas.
+* Alertas ignoradas.
+* Cambio de recuperación.
+* Contactos reciben mensajes sospechosos.
+
+Acción:
+Cambiar contraseña, cerrar sesiones, activar MFA y revisar reglas.
+
+---
+
+### En redes sociales
+
+Indicadores:
+
+* Publicaciones no realizadas.
+* Mensajes a contactos.
+* Cambios de correo o número.
+* Pérdida de acceso.
+* Promociones falsas.
+
+Acción:
+Recuperar cuenta, activar MFA, revisar sesiones y avisar a contactos.
+
+---
+
+### En dispositivos
+
+Indicadores:
+
+* Lentitud repentina.
+* Ventanas emergentes.
+* Aplicaciones desconocidas.
+* Consumo inusual de datos.
+* Antivirus desactivado.
+* Archivos cifrados.
+
+Acción:
+Desconectar de internet si hay sospecha de malware y buscar soporte técnico confiable.
+
+---
+
+### En nube
+
+Indicadores:
+
+* Archivos eliminados.
+* Carpetas compartidas sin permiso.
+* Accesos desde ubicaciones desconocidas.
+* Cambios de permisos.
+* Archivos renombrados o movidos.
+
+Acción:
+Revisar actividad, quitar permisos desconocidos y proteger la cuenta.
+
+---
+
+### En banca y pagos
+
+Indicadores:
+
+* Compras no reconocidas.
+* Transferencias inesperadas.
+* Códigos SMS no solicitados.
+* Alertas de acceso.
+* Llamadas pidiendo verificación.
+
+Acción:
+Contactar inmediatamente al banco o billetera digital por canal oficial.
+
+---
+
+## Bloque 5: Falso positivo o alerta real
+
+Texto:
+
+Un falso positivo es una señal que parece peligrosa, pero al revisar se descubre que tiene explicación legítima.
+
+Ejemplo:
+
+* Inicias sesión desde un navegador nuevo y recibes una alerta.
+* Cambiaste tu contraseña y llega una notificación.
+* Viajaste a otra ciudad y la cuenta muestra una ubicación diferente.
+
+Una alerta real es una señal que no puedes explicar o que muestra actividad no autorizada.
+
+Ejemplo:
+
+* Inicio de sesión desde un lugar donde no estás.
+* Cambio de recuperación que no hiciste.
+* Mensajes enviados sin permiso.
+* Dispositivo desconocido conectado.
+* Transferencia no reconocida.
+
+Mensaje clave:
+
+No todas las alertas son incidentes, pero toda alerta debe revisarse.
+
+---
+
+## Bloque 6: Cómo revisar sin exponerse
+
+Acciones seguras:
+
+1. No usar enlaces recibidos en correos o SMS sospechosos.
+2. Entrar directamente desde la app oficial.
+3. Escribir manualmente la dirección del servicio.
+4. Revisar actividad desde configuración de seguridad.
+5. No compartir códigos.
+6. No enviar capturas con datos sensibles.
+7. Cambiar contraseña desde dispositivo seguro.
+8. Cerrar sesiones desconocidas.
+9. Activar MFA.
+10. Documentar si hay señales críticas.
+
+---
+
+## Bloque 7: Rutina semanal de monitoreo
+
+Crear una guía llamada:
+
+**“Mi revisión de 10 minutos”**
+
+Semana a semana:
+
+1. Revisar alertas de inicio de sesión.
+2. Revisar dispositivos conectados.
+3. Cerrar sesiones antiguas.
+4. Revisar apps conectadas.
+5. Revisar movimientos bancarios.
+6. Revisar archivos compartidos en la nube.
+7. Revisar mensajes enviados si hubo sospecha.
+8. Confirmar que MFA sigue activo.
+9. Revisar copia de seguridad.
+10. Anotar cualquier señal extraña.
+
+Cada mes:
+
+1. Revisar recuperación de cuenta.
+2. Revisar privacidad de redes sociales.
+3. Eliminar apps que ya no usas.
+4. Cambiar contraseñas repetidas si existen.
+5. Revisar permisos de aplicaciones.
+6. Actualizar dispositivos.
+
+Cada tres meses:
+
+1. Revisar tu matriz de riesgos.
+2. Actualizar tu plan de ciberhigiene.
+3. Probar recuperación de archivos.
+4. Conversar con familia o equipo sobre nuevas señales de fraude.
+
+---
+
+## Bloque 8: Errores frecuentes al monitorear
+
+Mostrar tarjetas:
+
+1. Ignorar alertas por estar ocupado.
+   Corrección:
+   Revisarlas toma poco tiempo y puede evitar un incidente.
+
+2. Hacer clic en el enlace de la alerta.
+   Corrección:
+   Entrar manualmente a la cuenta o usar la app oficial.
+
+3. No cerrar sesiones antiguas.
+   Corrección:
+   Cerrar lo que no reconoces o ya no usas.
+
+4. No revisar apps conectadas.
+   Corrección:
+   Revocar accesos innecesarios.
+
+5. Borrar evidencia sin revisar.
+   Corrección:
+   Guardar fecha, hora, remitente o captura si la alerta es crítica.
+
+6. Cambiar contraseña desde equipo posiblemente infectado.
+   Corrección:
+   Usar dispositivo seguro.
+
+7. Creer que MFA evita todo.
+   Corrección:
+   MFA ayuda mucho, pero también debes revisar sesiones, apps y recuperación.
+
+---
+
+## Bloque 9: Ejemplo guiado de revisión
+
+### Caso
+
+Una persona recibe alerta de inicio de sesión desde una ciudad desconocida.
+
+### Revisión
+
+1. Entra a la cuenta desde la app oficial.
+2. Revisa historial de actividad.
+3. Revisa dispositivos conectados.
+4. Revisa si hubo cambios de contraseña.
+5. Revisa correo y teléfono de recuperación.
+6. Revisa apps conectadas.
+7. Cierra sesiones desconocidas.
+8. Cambia contraseña desde dispositivo seguro.
+9. Activa MFA.
+10. Documenta la alerta si hubo actividad no reconocida.
+
+### Decisión
+
+Si solo fue una alerta explicable:
+Marcar como revisada.
+
+Si hubo cambios o actividad no autorizada:
+Tratar como incidente y aplicar protocolo de respuesta.
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “¿Dónde miro esta señal?”
+
+Instrucción:
+Relaciona la señal con el lugar donde debes revisar.
+
+1. Inicio de sesión desconocido.
+   Lugar:
+   Historial de inicio de sesión.
+
+2. Equipo que no reconoces.
+   Lugar:
+   Dispositivos conectados.
+
+3. App extraña con permisos.
+   Lugar:
+   Apps conectadas.
+
+4. Correos enviados sin permiso.
+   Lugar:
+   Carpeta de enviados y reglas de correo.
+
+5. Documento compartido con desconocidos.
+   Lugar:
+   Permisos de archivos en la nube.
+
+6. Transferencia no reconocida.
+   Lugar:
+   Movimientos bancarios y canal oficial del banco.
+
+Retroalimentación:
+Cada señal tiene un lugar donde puede verificarse. Saber dónde mirar acelera la respuesta.
+
+---
+
+## Bloque 11: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de monitoreo básico”**
+
+Términos:
+
+* Monitoreo básico: revisión periódica de señales de actividad en cuentas y dispositivos.
+* Registro: información guardada sobre una acción o evento.
+* Inicio de sesión: acceso a una cuenta mediante credenciales.
+* Sesión activa: acceso abierto en un dispositivo o navegador.
+* Dispositivo conectado: equipo autorizado o con sesión iniciada en una cuenta.
+* Alerta: aviso de posible actividad relevante o sospechosa.
+* Señal sospechosa: indicio que requiere verificación.
+* Alerta crítica: señal fuerte de posible incidente.
+* Indicador de compromiso: pista que sugiere que una cuenta, dispositivo o dato pudo ser afectado.
+* Falso positivo: alerta que parece peligrosa, pero tiene explicación legítima.
+* App conectada: aplicación externa con permisos sobre una cuenta.
+* Regla de reenvío: configuración que envía correos automáticamente a otra dirección.
+* MFA: doble factor de autenticación.
+* Evidencia digital: información útil para documentar un incidente.
+* Rutina de monitoreo: hábito periódico de revisión de cuentas y señales.
+
+---
+
+## Bloque 12: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en ciberseguridad, detección, respuesta, riesgos y herramientas.
+
+2. Sound the Alarm: Detection and Response
+   Curso de Google recomendado para ampliar conceptos sobre detección y respuesta a incidentes.
+
+3. Google Security Checkup
+   Herramienta práctica para revisar actividad de cuenta, dispositivos conectados y recomendaciones de seguridad.
+
+4. Google Password Manager
+   Herramienta para revisar contraseñas débiles, repetidas o comprometidas.
+
+5. CISA Secure Our World
+   Recurso práctico para reforzar MFA, contraseñas fuertes, actualización de software y reporte de phishing.
+
+6. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de gobernar, identificar, proteger, detectar, responder y recuperar.
+
+7. INCIBE — Seguridad para ciudadanos
+   Recurso en español para fortalecer seguridad digital, privacidad, phishing y protección de cuentas.
+
+8. Centro Cibernético Policial
+   Canal colombiano para reportar fraudes y delitos digitales.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 13: Cierre de ayuda
+
+Texto de cierre:
+
+La detección temprana es una habilidad práctica. No necesitas herramientas avanzadas para empezar. Necesitas crear el hábito de revisar señales básicas.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Revisar alertas de inicio de sesión.
+2. Identificar dispositivos conectados.
+3. Cerrar sesiones desconocidas.
+4. Revocar apps que no usas.
+5. Revisar cambios de recuperación.
+6. Detectar mensajes o archivos enviados sin permiso.
+7. Documentar señales importantes.
+8. Actuar antes de que el incidente crezca.
+
+Recuerda:
+
+**Una alerta ignorada puede convertirse en incidente. Una alerta revisada a tiempo puede evitarlo.**

@@ -20,9 +20,13 @@ UNIDAD 2 - Gestion de riesgos y respuesta inicial
 3. ova-u2-03-respuesta-inicial-incidentes
 4. ova-u2-04-matriz-riesgos-plan-mejora
 
+UNIDAD 3 - Monitoreo basico y defensa digital aplicada
+
+1. ova-u3-01-senales-alerta-monitoreo-cuentas
+
 Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
-entrega, la Unidad 1 esta completa y la Unidad 2 cuenta con las OVAs 1, 2, 3 y 4
-completas.
+entrega, la Unidad 1 esta completa, la Unidad 2 cuenta con las OVAs 1, 2, 3 y 4
+completas, y la Unidad 3 cuenta con la OVA 1 completa.
 
 IMPORTANTE SOBRE LOS SCORM
 
@@ -33,6 +37,7 @@ La entrega individual esta organizada en:
 
 - outputs/scorm-individuales/unidad-1
 - outputs/scorm-individuales/unidad-2
+- outputs/scorm-individuales/unidad-3
 
 No suba a Moodle la carpeta curso-ovas-ciberseguridad ni la carpeta
 scorm-individuales como un unico paquete. Suba solo el ZIP de la OVA que
@@ -56,6 +61,8 @@ un color y simbolo de identificacion:
   reporte, evidencia y recuperacion.
 - Unidad 2 OVA 4 - Indigo/dorado con matriz de riesgos: valoracion, controles
   y plan de mejora.
+- Unidad 3 OVA 1 - Verde/cian - Monitoreo: senales tempranas, registros
+  basicos, actividad sospechosa y rutina de revision.
 
 COMO COMPRIMIR UNA OVA
 
@@ -88,6 +95,7 @@ PAQUETES SCORM GENERADOS
 - OVA-U2-02-vulnerabilidades-configuraciones-inseguras-SCORM12.zip
 - OVA-U2-03-respuesta-inicial-incidentes-SCORM12.zip
 - OVA-U2-04-matriz-riesgos-plan-mejora-SCORM12.zip
+- OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
 
 Los mismos paquetes tambien estan separados por unidad en la carpeta:
 outputs/scorm-individuales
@@ -114,6 +122,7 @@ ORDEN RECOMENDADO DE PUBLICACION
 8. Unidad 2 - Respuesta inicial ante incidentes digitales: que hacer en los
    primeros minutos.
 9. Unidad 2 - Matriz basica de riesgos digitales y plan de mejora.
+10. Unidad 3 - Senales de alerta, registros basicos y monitoreo de cuentas.
 
 VALIDACION DE REPORTES SCORM
 
