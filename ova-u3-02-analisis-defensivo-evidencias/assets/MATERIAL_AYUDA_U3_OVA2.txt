@@ -1,0 +1,490 @@
+## Material de ayuda y ampliación para la OVA 2 — Unidad 3
+
+### Análisis defensivo de casos cotidianos y organización de evidencias
+
+Agregar dentro de la OVA una sección complementaria llamada:
+
+**“Aprende más: organizar evidencias sin exponerse”**
+
+Esta sección debe estar disponible como pestaña, acordeón o botón de ayuda. No debe ser obligatoria para finalizar la OVA, pero debe orientar al estudiante para ampliar su conocimiento y prepararse para la siguiente OVA de comunicación, reporte, recuperación y aprendizaje posterior al incidente.
+
+---
+
+## Propósito de la sección
+
+El propósito de esta sección es ayudar al estudiante a comprender que una evidencia útil no es cualquier dato. Una evidencia útil es información que permite entender qué ocurrió sin exponer secretos ni aumentar el daño.
+
+La OVA debe reforzar la siguiente idea:
+
+**Documentar bien no significa guardar todo. Significa conservar lo necesario, proteger lo sensible y ordenar los hechos.**
+
+---
+
+## Bloque 1: Qué es evidencia digital
+
+Texto para mostrar al estudiante:
+
+La evidencia digital es información que ayuda a reconstruir un hecho ocurrido en una cuenta, dispositivo, servicio o plataforma.
+
+Puede servir para:
+
+* Entender qué pasó.
+* Explicar cuándo ocurrió.
+* Identificar qué activo fue afectado.
+* Reportar a una plataforma, banco o soporte.
+* Advertir a contactos afectados.
+* Solicitar recuperación de una cuenta.
+* Evitar que el incidente se repita.
+
+Ejemplos:
+
+* Captura de un mensaje sospechoso.
+* URL recibida.
+* Número telefónico.
+* Remitente del correo.
+* Perfil que contactó.
+* Fecha y hora.
+* Alerta de inicio de sesión.
+* Registro de dispositivo desconocido.
+* Movimiento financiero no reconocido.
+* Publicación que no hiciste.
+* Reenvío no autorizado.
+* Lista de acciones realizadas.
+
+---
+
+## Bloque 2: Evidencia útil vs dato sensible
+
+### Evidencia útil
+
+Ayuda a entender o reportar el caso.
+
+Ejemplos:
+
+* Captura del mensaje.
+* Fecha y hora.
+* URL.
+* Remitente.
+* Número del contacto.
+* Captura de alerta.
+* Registro de acceso desconocido.
+* Publicación no autorizada.
+
+### Dato sensible
+
+No debe compartirse ni incluirse en reportes de práctica.
+
+Ejemplos:
+
+* Contraseña.
+* Código SMS.
+* Token.
+* PIN.
+* CVV.
+* Número completo de tarjeta.
+* Documento completo.
+* Foto de documento sin ocultar.
+* Captura bancaria con datos completos.
+* Código QR de autenticación.
+
+Mensaje clave:
+
+Si el dato permite entrar a una cuenta, mover dinero, confirmar identidad o recuperar acceso, no debe compartirse.
+
+---
+
+## Bloque 3: Cómo nombrar archivos de evidencia
+
+Texto:
+
+Nombrar bien los archivos ayuda a encontrarlos y entenderlos después.
+
+Usa nombres claros, sin datos sensibles.
+
+Ejemplos recomendados:
+
+* 01_mensaje_sospechoso.png
+* 02_url_recibida.txt
+* 03_alerta_inicio_sesion.png
+* 04_publicacion_no_autorizada.png
+* 05_movimiento_no_reconocido.png
+* 06_linea_tiempo.txt
+* 07_acciones_realizadas.txt
+
+Evita nombres como:
+
+* mi_contraseña.txt
+* codigo_sms.png
+* tarjeta_completa.jpg
+* pin_banco.txt
+* cedula_completa.png
+
+Regla:
+
+El nombre del archivo debe describir la evidencia, no revelar secretos.
+
+---
+
+## Bloque 4: Cómo construir una línea de tiempo
+
+Texto:
+
+Una línea de tiempo organiza los hechos según ocurrieron.
+
+Debe responder:
+
+1. ¿Cuándo empezó?
+2. ¿Qué mensaje, alerta o evento apareció?
+3. ¿Qué acción realizó el usuario?
+4. ¿Qué señal de afectación apareció?
+5. ¿Qué evidencia existe?
+6. ¿Qué acción de respuesta se tomó?
+7. ¿Qué queda pendiente?
+
+Formato sugerido:
+
+* Fecha.
+* Hora aproximada.
+* Evento.
+* Evidencia asociada.
+* Acción realizada.
+* Estado.
+
+Ejemplo:
+
+Fecha:
+15 de junio.
+
+Hora:
+8:10 p. m.
+
+Evento:
+Llegó SMS sospechoso sobre bloqueo de cuenta.
+
+Evidencia:
+Captura del SMS y número remitente.
+
+Acción:
+No se respondió. Se ingresó por app oficial para verificar.
+
+Estado:
+Sospecha descartada o caso reportado.
+
+Mensaje:
+
+Si no conoces la hora exacta, usa una hora aproximada. Es mejor un registro aproximado que no registrar nada.
+
+---
+
+## Bloque 5: Separar hechos de sospechas
+
+Texto:
+
+Un buen análisis diferencia lo que se sabe de lo que se supone.
+
+### Hecho
+
+Algo que se puede confirmar.
+
+Ejemplo:
+“Recibí una alerta de inicio de sesión a las 8:30 p. m.”
+
+### Sospecha
+
+Algo que podría ser cierto, pero necesita verificación.
+
+Ejemplo:
+“Creo que alguien intentó entrar a mi cuenta.”
+
+### Conclusión inicial
+
+Interpretación basada en hechos.
+
+Ejemplo:
+“Como hubo alerta de acceso desconocido y dispositivo no reconocido, se debe tratar como posible cuenta comprometida.”
+
+Regla:
+
+No escribas como hecho algo que todavía no has confirmado.
+
+---
+
+## Bloque 6: Qué no se debe compartir
+
+Crear tarjeta de advertencia:
+
+**No compartir ni incluir en reportes:**
+
+* Contraseñas.
+* Códigos SMS.
+* Tokens.
+* PIN.
+* CVV.
+* Número completo de tarjeta.
+* Códigos de recuperación.
+* QR de autenticación.
+* Fotos de documentos sin ocultar datos.
+* Capturas bancarias completas.
+* Información de terceros sin autorización.
+
+Mensaje:
+
+El reporte debe ayudar a resolver el caso, no crear un segundo problema de privacidad.
+
+---
+
+## Bloque 7: Cómo preparar un resumen para reporte
+
+Crear plantilla:
+
+### Resumen seguro de incidente
+
+1. Tipo de caso:
+   Phishing, cuenta comprometida, fraude financiero, malware, suplantación u otro.
+
+2. Activo afectado:
+   Correo, red social, banco, celular, computador, nube o plataforma.
+
+3. Fecha y hora aproximada:
+   Indicar cuándo se detectó.
+
+4. Qué ocurrió:
+   Descripción breve, sin contraseñas ni códigos.
+
+5. Evidencias disponibles:
+   Capturas, URL, remitente, alerta, registro, línea de tiempo.
+
+6. Acciones realizadas:
+   Cambio de contraseña, cierre de sesiones, reporte, bloqueo de cuenta, aviso a contactos.
+
+7. Estado actual:
+   Pendiente, en revisión, contenido eliminado, cuenta recuperada, reporte enviado.
+
+Ejemplo seguro:
+
+“El 15 de junio a las 8:30 p. m. recibí un mensaje que decía ser de soporte de una red social. Ingresé al enlace y luego perdí acceso a la cuenta. Guardé captura del mensaje, URL y publicaciones no autorizadas. Cambié contraseñas relacionadas desde otro dispositivo y reporté a la plataforma.”
+
+---
+
+## Bloque 8: Organización básica de carpeta
+
+Texto:
+
+Una carpeta de evidencias debe estar ordenada y protegida.
+
+Estructura sugerida:
+
+/caso_red_social_2026
+01_mensaje_sospechoso.png
+02_url_recibida.txt
+03_alerta_seguridad.png
+04_publicacion_no_autorizada.png
+05_linea_tiempo.txt
+06_acciones_realizadas.txt
+07_reporte_enviado.txt
+
+Recomendaciones:
+
+* Guardar la carpeta en un lugar seguro.
+* No compartir públicamente.
+* Ocultar datos sensibles si se debe enviar a soporte.
+* No incluir contraseñas ni códigos.
+* Mantener nombres claros.
+* Registrar acciones realizadas.
+
+---
+
+## Bloque 9: Errores frecuentes al organizar evidencias
+
+Mostrar tarjetas:
+
+1. Guardar contraseñas como evidencia.
+   Corrección:
+   Las contraseñas nunca son evidencia para compartir.
+
+2. No guardar fecha y hora.
+   Corrección:
+   La fecha y hora ayudan a construir la línea de tiempo.
+
+3. Publicar capturas en redes.
+   Corrección:
+   Las evidencias deben compartirse solo por canales autorizados.
+
+4. Borrar todo por nervios.
+   Corrección:
+   Primero guarda evidencia mínima segura.
+
+5. Mezclar hechos con opiniones.
+   Corrección:
+   Separa hechos comprobados, sospechas y conclusiones.
+
+6. Enviar capturas con datos de terceros.
+   Corrección:
+   Oculta información innecesaria.
+
+7. No registrar acciones realizadas.
+   Corrección:
+   Anota si cambiaste contraseña, cerraste sesiones o reportaste.
+
+---
+
+## Bloque 10: Mini actividad de ampliación
+
+### “¿Lo guardo o no lo guardo?”
+
+Instrucción:
+Clasifica cada elemento.
+
+1. Captura del mensaje sospechoso.
+   Respuesta:
+   Guardar como evidencia útil.
+
+2. Contraseña actual.
+   Respuesta:
+   No guardar ni compartir.
+
+3. URL sospechosa.
+   Respuesta:
+   Guardar como evidencia útil.
+
+4. Código SMS.
+   Respuesta:
+   No guardar ni compartir en reporte.
+
+5. Fecha y hora.
+   Respuesta:
+   Guardar como evidencia útil.
+
+6. Captura de alerta de inicio de sesión.
+   Respuesta:
+   Guardar como evidencia útil.
+
+7. PIN bancario.
+   Respuesta:
+   No guardar ni compartir.
+
+8. Publicación falsa desde mi cuenta.
+   Respuesta:
+   Guardar como evidencia útil.
+
+Retroalimentación:
+Guarda lo que ayuda a explicar el incidente. Protege lo que permite acceso, dinero o identidad.
+
+---
+
+## Bloque 11: Mini actividad de ampliación
+
+### “Hecho, sospecha o conclusión”
+
+Situación 1:
+“Recibí un mensaje del supuesto banco a las 9:10 a. m.”
+
+Respuesta:
+Hecho.
+
+Situación 2:
+“Creo que querían robarme la cuenta.”
+
+Respuesta:
+Sospecha.
+
+Situación 3:
+“El enlace no correspondía al dominio oficial y pedía usuario y contraseña; por eso se clasifica como phishing probable.”
+
+Respuesta:
+Conclusión inicial.
+
+Situación 4:
+“Mis contactos recibieron mensajes que no envié.”
+
+Respuesta:
+Hecho.
+
+Situación 5:
+“Posiblemente mi cuenta fue comprometida.”
+
+Respuesta:
+Sospecha o conclusión inicial, según evidencias disponibles.
+
+---
+
+## Bloque 12: Glosario de la OVA
+
+Agregar botón o pestaña llamada:
+
+**“Glosario de evidencias y análisis defensivo”**
+
+Términos:
+
+* Evidencia digital: información que ayuda a documentar un incidente.
+* Dato sensible: información que no debe compartirse porque puede exponer cuentas, dinero o identidad.
+* Señal débil: indicio que requiere revisión.
+* Señal crítica: indicio fuerte de afectación o daño.
+* Línea de tiempo: orden cronológico de los hechos.
+* Hecho: evento comprobable.
+* Sospecha: interpretación que requiere verificación.
+* Conclusión inicial: análisis basado en hechos disponibles.
+* Remitente: quien envía un mensaje.
+* URL: dirección de una página web.
+* Captura: imagen que conserva evidencia visual.
+* Registro: información guardada sobre actividad en una cuenta o sistema.
+* Reporte: comunicación formal o estructurada sobre un incidente.
+* Activo afectado: cuenta, dispositivo, servicio o información impactada.
+* Acción realizada: medida tomada para contener, reportar o recuperar.
+
+---
+
+## Bloque 13: Recursos para ampliar conocimiento
+
+Agregar una sección final llamada:
+
+**“Para seguir aprendiendo”**
+
+Mostrar como tarjetas de recursos externos opcionales:
+
+1. Google Cybersecurity Certificate
+   Ruta de aprendizaje para profundizar en ciberseguridad, detección, respuesta, riesgos y herramientas.
+
+2. Sound the Alarm: Detection and Response
+   Curso de Google recomendado para ampliar conceptos sobre detección, respuesta e investigación básica de incidentes.
+
+3. NIST Cybersecurity Framework 2.0
+   Marco de referencia para organizar acciones de gobernar, identificar, proteger, detectar, responder y recuperar.
+
+4. CISA Cyber Essentials
+   Guía práctica para fortalecer controles básicos, preparación y respuesta.
+
+5. Google Security Checkup
+   Herramienta para revisar actividad sospechosa, dispositivos conectados y seguridad de cuenta.
+
+6. INCIBE — Seguridad para ciudadanos
+   Recurso en español para aprender sobre fraudes, incidentes, privacidad y protección digital.
+
+7. Centro Cibernético Policial
+   Canal colombiano para reportar fraudes y delitos digitales.
+
+Nota:
+Estos recursos externos son opcionales. La OVA debe funcionar sin internet.
+
+---
+
+## Bloque 14: Cierre de ayuda
+
+Texto de cierre:
+
+Organizar evidencias no es una tarea complicada. Es una práctica de orden y cuidado.
+
+Después de esta OVA, tu meta es concreta:
+
+1. Guardar evidencias útiles.
+2. No compartir datos sensibles.
+3. Registrar fecha y hora.
+4. Construir una línea de tiempo.
+5. Separar hechos de sospechas.
+6. Preparar un resumen claro.
+7. Reportar por canales correctos.
+8. Proteger la información durante todo el proceso.
+
+Recuerda:
+
+**Una buena evidencia ayuda a responder. Un dato sensible mal compartido puede abrir otro incidente.**

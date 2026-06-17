@@ -24,6 +24,7 @@ unidad-2/
 
 unidad-3/
 - OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
+- OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip
 
 COMO USAR EN MOODLE
 
@@ -71,3 +72,4 @@ ORDEN RECOMENDADO
 8. OVA-U2-03-respuesta-inicial-incidentes-SCORM12.zip
 9. OVA-U2-04-matriz-riesgos-plan-mejora-SCORM12.zip
 10. OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
+11. OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip

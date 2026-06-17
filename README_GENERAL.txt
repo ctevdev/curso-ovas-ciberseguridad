@@ -23,10 +23,11 @@ UNIDAD 2 - Gestion de riesgos y respuesta inicial
 UNIDAD 3 - Monitoreo basico y defensa digital aplicada
 
 1. ova-u3-01-senales-alerta-monitoreo-cuentas
+2. ova-u3-02-analisis-defensivo-evidencias
 
 Cada carpeta fuente se publica como una actividad SCORM 1.2 separada. En esta
 entrega, la Unidad 1 esta completa, la Unidad 2 cuenta con las OVAs 1, 2, 3 y 4
-completas, y la Unidad 3 cuenta con la OVA 1 completa.
+completas, y la Unidad 3 cuenta con las OVAs 1 y 2 completas.
 
 IMPORTANTE SOBRE LOS SCORM
 
@@ -63,6 +64,8 @@ un color y simbolo de identificacion:
   y plan de mejora.
 - Unidad 3 OVA 1 - Verde esmeralda/lima - Monitoreo: senales tempranas, registros
   basicos, actividad sospechosa y rutina de revision.
+- Unidad 3 OVA 2 - Verde esmeralda/lima - Evidencias: analisis defensivo,
+  linea de tiempo, carpeta segura y resumen de reporte.
 
 COMO COMPRIMIR UNA OVA
 
@@ -96,6 +99,7 @@ PAQUETES SCORM GENERADOS
 - OVA-U2-03-respuesta-inicial-incidentes-SCORM12.zip
 - OVA-U2-04-matriz-riesgos-plan-mejora-SCORM12.zip
 - OVA-U3-01-senales-alerta-monitoreo-cuentas-SCORM12.zip
+- OVA-U3-02-analisis-defensivo-evidencias-SCORM12.zip
 
 Los mismos paquetes tambien estan separados por unidad en la carpeta:
 outputs/scorm-individuales
@@ -123,6 +127,8 @@ ORDEN RECOMENDADO DE PUBLICACION
    primeros minutos.
 9. Unidad 2 - Matriz basica de riesgos digitales y plan de mejora.
 10. Unidad 3 - Senales de alerta, registros basicos y monitoreo de cuentas.
+11. Unidad 3 - Analisis defensivo de casos cotidianos y organizacion de
+    evidencias.
 
 VALIDACION DE REPORTES SCORM
 
