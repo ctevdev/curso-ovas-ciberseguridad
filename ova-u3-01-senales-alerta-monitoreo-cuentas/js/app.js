@@ -9,6 +9,7 @@
     score: 0,
     answers: {
       case: null,
+      diagnostic: null,
       mini: {},
       classify: {},
       logEvents: [],
@@ -313,7 +314,7 @@
   function renderScreen(index) {
     switch (index) {
       case 0: return renderWelcome();
-      case 1: return renderObjective();
+      case 1: return renderObjectiveV2();
       case 2: return renderCase();
       case 3: return renderMonitoring();
       case 4: return renderLevels();
@@ -355,6 +356,51 @@
         return '<div class="card"><span class="icon" aria-hidden="true">&#9679;</span><strong>' + esc(item) + '</strong></div>';
       }).join("") + '</div>' +
       '<div class="notice">Al finalizar, podras diferenciar actividad normal, senal sospechosa y alerta critica para tomar decisiones seguras.</div>');
+  }
+
+  function renderObjectiveV2() {
+    var selected = state.answers.diagnostic;
+    var outcomes = [
+      "Diferenciar entre actividad normal, senal sospechosa y alerta critica.",
+      "Reconocer senales de compromiso en correo, redes sociales, nube, banca y dispositivos.",
+      "Revisar registros basicos como inicios de sesion, dispositivos conectados, apps autorizadas y archivos compartidos.",
+      "Tomar decisiones iniciales frente a una alerta.",
+      "Construir una rutina semanal de monitoreo digital."
+    ];
+    var route = [
+      "Caso inicial: la alerta que parecia normal.",
+      "Conceptos clave: normal, sospechoso y critico.",
+      "Senales de alerta en cuentas.",
+      "Registros basicos que puedes revisar.",
+      "Laboratorio de clasificacion de senales.",
+      "Revision de un registro simulado.",
+      "Rutina semanal de monitoreo.",
+      "Resultado y recomendaciones."
+    ];
+    var feedback = "";
+    if (selected === "frecuente" || selected === "alguna") {
+      feedback = '<div class="feedback correct">Muy bien. En esta OVA fortaleceras esa practica y aprenderas que senales debes observar.</div>';
+    } else if (selected === "no-se" || selected === "no-sabia") {
+      feedback = '<div class="feedback partial">No hay problema. Esta OVA te mostrara que tipos de registros puedes revisar y como interpretar senales basicas.</div>';
+    }
+    return shell("Objetivo de aprendizaje",
+      "En esta OVA aprenderas a reconocer senales de alerta en cuentas digitales, revisar registros basicos de actividad y crear una rutina sencilla de monitoreo para detectar posibles incidentes antes de que crezcan.",
+      '<div class="brand-strip"><span>Unidad 3 - Defensa digital aplicada</span><img src="assets/logo-unicartagena-ctev.png" alt="Logo institucional"></div>' +
+      '<h3>Al finalizar esta OVA podras:</h3>' +
+      '<ol class="reading-block">' + outcomes.map(function (item) { return '<li>' + esc(item) + '</li>'; }).join("") + '</ol>' +
+      '<h3>Ruta de aprendizaje</h3>' +
+      '<div class="risk-chain learning-route">' + route.map(function (item, index) {
+        return riskPiece((index + 1) + ". Paso", item);
+      }).join("") + '</div>' +
+      '<fieldset class="question"><legend>Has revisado alguna vez los dispositivos conectados a tu correo principal?</legend>' +
+        radio("diagnostic", "frecuente", "Si, lo reviso con frecuencia.", selected) +
+        radio("diagnostic", "alguna", "Alguna vez lo revise.", selected) +
+        radio("diagnostic", "no-se", "No se donde se revisa.", selected) +
+        radio("diagnostic", "no-sabia", "No sabia que eso se podia revisar.", selected) +
+      '</fieldset>' +
+      feedback +
+      '<div class="notice">Esta pregunta es diagnostica: no afecta la nota. Te ayuda a ubicar tu punto de partida.</div>',
+      "Continuar al caso inicial");
   }
 
   function renderCase() {
@@ -592,7 +638,7 @@
 
   function nav(firstButtonLabel) {
     var back = state.screen === 0 ? "" : '<button id="prev-screen" class="button button-secondary" type="button">Anterior</button>';
-    var nextLabel = state.screen === 0 ? (firstButtonLabel || "Continuar") : state.screen >= totalScreens - 1 ? "Ver finalizacion" : "Siguiente";
+    var nextLabel = firstButtonLabel || (state.screen === 0 ? "Continuar" : state.screen >= totalScreens - 1 ? "Ver finalizacion" : "Siguiente");
     var next = state.screen < totalScreens - 1 ? '<button id="next-screen" class="button button-primary" type="button">' + esc(nextLabel) + '</button>' : "";
     return '<div class="button-row">' + (back || '<span></span>') + next + '</div>';
   }
@@ -603,6 +649,7 @@
       state.completed[index] = true;
       goTo(state.screen + 1);
     });
+    if (index === 1) bindRadios("diagnostic", function (value) { state.answers.diagnostic = value; state.completed[1] = true; saveAndRender(); });
     if (index === 2) bindRadios("case", function (value) { state.answers.case = value; state.completed[2] = true; saveAndRender(); });
     if (miniQuestions[index]) bindRadios("mini-" + miniQuestions[index].id, function (value) { state.answers.mini[miniQuestions[index].id] = Number(value); state.completed[index] = true; saveAndRender(); });
     if (index === 8) bindClassify();
