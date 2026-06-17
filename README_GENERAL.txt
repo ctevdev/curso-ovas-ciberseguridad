@@ -61,7 +61,7 @@ un color y simbolo de identificacion:
   reporte, evidencia y recuperacion.
 - Unidad 2 OVA 4 - Indigo/dorado con matriz de riesgos: valoracion, controles
   y plan de mejora.
-- Unidad 3 OVA 1 - Verde/cian - Monitoreo: senales tempranas, registros
+- Unidad 3 OVA 1 - Verde esmeralda/lima - Monitoreo: senales tempranas, registros
   basicos, actividad sospechosa y rutina de revision.
 
 COMO COMPRIMIR UNA OVA

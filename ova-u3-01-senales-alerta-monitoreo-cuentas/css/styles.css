@@ -3,12 +3,12 @@
   --blue-900: #12345b;
   --blue-700: #0969ba;
   --blue-100: #e8f2ff;
-  --indigo-900: #064e3b;
-  --indigo-700: #0f766e;
-  --indigo-100: #e6fffb;
-  --gold-600: #22d3ee;
-  --gold-700: #0e7490;
-  --gold-100: #ecfeff;
+  --indigo-900: #052e2b;
+  --indigo-700: #047857;
+  --indigo-100: #dcfce7;
+  --gold-600: #84cc16;
+  --gold-700: #3f6212;
+  --gold-100: #f7fee7;
   --green-700: #18794e;
   --green-100: #e8f7ef;
   --orange-700: #b45309;
@@ -50,7 +50,7 @@ button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-v
   gap: 1rem;
   padding: 1.1rem max(1rem, calc((100% - 1120px) / 2));
   color: var(--white);
-  background: linear-gradient(120deg, rgba(7,20,95,.96), rgba(15,118,110,.92)), url("../assets/fondo-hexagonal-azul.jpeg") center/cover;
+  background: linear-gradient(120deg, rgba(5,46,43,.97), rgba(4,120,87,.92)), url("../assets/fondo-hexagonal-azul.jpeg") center/cover;
   border-bottom: 4px solid var(--gold-600);
 }
 .brand-block { display: flex; align-items: center; gap: .8rem; }
@@ -68,7 +68,7 @@ button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-v
   box-shadow: 0 0 18px rgba(242,169,0,.42);
 }
 .topbar h1 { margin: .1rem 0 0; font-size: clamp(1.05rem, 3vw, 1.52rem); }
-.eyebrow { margin: 0; color: #fff0c2; font-size: .82rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
+.eyebrow { margin: 0; color: #ecfccb; font-size: .82rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
 .institution-logo {
   display: block;
   width: clamp(180px, 24vw, 250px);
@@ -154,7 +154,7 @@ h3 { color: var(--blue-900); }
 .button { min-height: 44px; padding: .7rem 1rem; cursor: pointer; border: 2px solid transparent; border-radius: 9px; font-weight: 800; }
 .button-primary { color: var(--white); background: var(--indigo-700); }
 .button-primary:hover { background: var(--indigo-900); }
-.button-secondary { color: var(--indigo-900); background: var(--indigo-100); border-color: #c7d2fe; }
+.button-secondary { color: var(--indigo-900); background: var(--indigo-100); border-color: #bbf7d0; }
 .button-ghost { color: var(--blue-900); background: transparent; border-color: var(--gray-300); }
 .button-danger { color: var(--white); background: var(--red-700); }
 .button:disabled { cursor: not-allowed; opacity: .5; }
@@ -588,7 +588,7 @@ select { min-height: 42px; padding: .55rem; border: 1px solid var(--gray-300); b
 .signal-normal { color: var(--green-700); background: var(--green-100); border: 1px solid #a7e3c3; }
 .signal-sospechosa { color: var(--orange-700); background: var(--orange-100); border: 1px solid #f5c17e; }
 .signal-critica { color: var(--red-700); background: var(--red-100); border: 1px solid #ffb4aa; }
-.signal-verificar { color: var(--indigo-900); background: var(--indigo-100); border: 1px solid #99f6e4; }
+.signal-verificar { color: var(--indigo-900); background: var(--indigo-100); border: 1px solid #86efac; }
 .monitor-check {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
